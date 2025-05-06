@@ -114,7 +114,6 @@ body {
   display: flex;
   flex-direction: column;
   flex: 1 0 auto;
-  scroll-behavior: smooth;
 }
 a {
   color: #00B85A;
@@ -158,12 +157,6 @@ ul li,
 ol li {
   margin-bottom: 0.5rem;
   padding-left: 1em;
-}
-.logo-container {
-  margin: 2rem 0;
-}
-.logo-container .logo-mome img {
-  max-height: 30px;
 }
 /*ol {
 	list-style: none;
@@ -229,6 +222,12 @@ ol li {
   line-height: 1em;
   font-weight: bold;
   margin-bottom: 2rem;
+}
+.block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container {
+  margin-bottom: 4rem;
+}
+.block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img.large {
+  display: none;
 }
 .block.poster-block .content-container .inner-wrapper .hero-container .info-container {
   font-weight: 600;
@@ -416,6 +415,18 @@ body.page-home footer.footer {
     font-size: 4rem;
     line-height: 1em;
   }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container {
+    margin-bottom: 2rem;
+  }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img {
+    max-width: 80%;
+  }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img.large {
+    display: block;
+  }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img.small {
+    display: none;
+  }
   .block.poster-block .content-container .inner-wrapper .hero-container .info-container {
     text-align: right;
     width: 60%;
@@ -450,9 +461,22 @@ body.page-home footer.footer {
     width: 50%;
     margin-left: 50%;
   }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container {
+    margin-bottom: 0;
+  }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img {
+    max-width: 100%;
+  }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img.large {
+    display: none;
+  }
+  .block.poster-block .content-container .inner-wrapper .hero-container .title-container .title-logo-container img.small {
+    display: block;
+    max-height: 200px;
+  }
   .block.poster-block .content-container .inner-wrapper .hero-container .info-container {
     width: 50%;
-    margin-left: 0%;
+    margin-left: 0;
   }
   nav.navbar .inner-wrapper a.menu-toggle {
     display: none;
