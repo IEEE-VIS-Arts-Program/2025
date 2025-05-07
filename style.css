@@ -171,6 +171,12 @@ ol li {
 		font-weight: 700;
 	}
 }*/
+.logo-container {
+  margin: 2rem 0;
+}
+.logo-container .logo-mome {
+  max-height: 30px;
+}
 .wrapper {
   position: relative;
 }
