@@ -171,11 +171,25 @@ ol li {
 		font-weight: 700;
 	}
 }*/
-.logo-container {
-  margin: 2rem 0;
+ul.logo-container {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+  align-items: center;
 }
-.logo-container .logo-mome img {
-  max-height: 30px;
+ul.logo-container li {
+  padding: 0;
+  margin: 0;
+}
+ul.logo-container a.logo-mome img {
+  max-height: 120px;
+}
+ul.logo-container a.logo-ange img {
+  max-height: 70px;
 }
 .wrapper {
   position: relative;
@@ -463,6 +477,9 @@ body.page-home footer.footer {
   }
 }
 @media screen and (min-width: 1024px) {
+  ul.logo-container {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
   .block.poster-block .content-container .inner-wrapper .hero-container .title-container {
     width: 50%;
     margin-left: 50%;
