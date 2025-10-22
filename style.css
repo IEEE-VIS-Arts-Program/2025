@@ -114,6 +114,7 @@ body {
   display: flex;
   flex-direction: column;
   flex: 1 0 auto;
+  min-height: 100vh;
 }
 a {
   color: #00B85A;
@@ -126,8 +127,21 @@ h3 {
   font-family: 'MonuExt', sans-serif;
   margin-bottom: 1em;
 }
+h1 {
+  line-height: 1.2em;
+}
 h1.page-title {
   margin-bottom: 5rem;
+}
+h1.project-title {
+  margin-bottom: 1rem;
+}
+h1.project-title span.category {
+  display: block;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 h2 {
   font-weight: 500;
@@ -139,6 +153,11 @@ h3 {
   line-height: 1.2em;
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
+}
+h3 span {
+  display: inline-block;
+  font-weight: normal;
+  font-size: 0.9em;
 }
 p.lead,
 span.lead {
@@ -193,6 +212,7 @@ ul.logo-container a.logo-ange img {
 }
 .wrapper {
   position: relative;
+  margin-bottom: auto;
 }
 .block {
   position: relative;
@@ -204,7 +224,7 @@ ul.logo-container a.logo-ange img {
   padding-top: 2rem;
 }
 .block .content {
-  max-width: 800px;
+  max-width: 860px;
   margin: 0 auto;
 }
 .block .section {
@@ -391,6 +411,109 @@ ul.key-value-container li .value {
 ul.key-value-container li:first-child {
   border-top: 1px solid black;
 }
+.authors {
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+.cards-container {
+  position: relative;
+  column-width: 200px;
+  gap: 1.5rem;
+}
+.cards-container a.card {
+  position: relative;
+  display: block;
+  text-decoration: none;
+  page-break-inside: avoid;
+  margin-bottom: 1.5rem;
+  background-color: white;
+  padding: 0.5rem;
+  transition: background-color 0.2s;
+}
+.cards-container a.card .image {
+  position: relative;
+  background-color: #00D367;
+  margin-bottom: 0.5rem;
+  transition: background-color 0.2s;
+  /*&::after {
+				display: block;
+				content: '';
+				padding-bottom: 56.25%;
+			}*/
+}
+.cards-container a.card .title {
+  color: black;
+  transition: color 0.2s;
+}
+.cards-container a.card:hover {
+  background-color: #00D367;
+}
+.cards-container a.card:hover .image {
+  background-color: white;
+}
+.gallery-container {
+  position: relative;
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-bottom: 4rem;
+}
+.gallery-container .item.featured {
+  grid-column: span 2;
+}
+.gallery-container .item.focus-old {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+.author-container .author {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.author-container .author .image-container {
+  width: 25%;
+}
+.author-container .author .image-container .image {
+  background-color: #00D367;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.author-container .author .image-container .image::after {
+  display: block;
+  content: '';
+  padding-bottom: 100%;
+}
+.author-container .author .author-bio {
+  width: 75%;
+}
+.author-container .author .author-bio h3 {
+  margin-top: 0;
+}
+.author-container .author:nth-child(odd) .image-container {
+  order: 1;
+}
+.author-container .author:nth-child(odd) .author-bio {
+  order: 2;
+}
+.author-container .author:nth-child(even) .image-container {
+  order: 2;
+}
+.author-container .author:nth-child(even) .author-bio {
+  order: 1;
+}
+.author-container .author:nth-child(even) .author-bio h3 {
+  text-align: right;
+}
+.pager-container {
+  display: flex;
+  gap: 1.5rem;
+}
+.pager-container .pager {
+  width: 50%;
+}
+.pager-container .pager.right {
+  text-align: right;
+}
 .sticky {
   position: sticky;
   top: 0;
@@ -460,6 +583,9 @@ body.page-home footer.footer {
   }
   nav.navbar .inner-wrapper .menu-container ul.menu {
     padding: 2rem;
+  }
+  .cards-container {
+    margin-bottom: 1.5rem;
   }
   footer.footer {
     padding-bottom: 1.5rem;

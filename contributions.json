@@ -1,0 +1,1818 @@
+{
+    "data":{
+        "pictorials":[
+            {
+                "id":1111,
+                "type":"pictorial",
+                "title":"Winds Through Time: Interactive Data Visualization and Physicalization for Paleoclimate Communication",
+                "desc":"We describe a multidisciplinary collaboration to iteratively design an interactive exhibit for a public science center on paleoclimate, the study of past climates. We created a data physicalisation of mountains and ice sheets that can be tangibly manipulated by visitors to interact with a wind simulation visualisation that demonstrates how the climate of North America differed dramatically between now and the peak of the last ice age. We detail the system for interaction and visualisation plus design choices to appeal to an audience that ranges from children to scientists and responds to site requirements.",
+                "web":"https://davidhunterdesign.com/",
+                "arxiv":"https://arxiv.org/pdf/2509.13039",
+                "email":"david.hunter@colorado.edu",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"winds-through-time",
+                "authors":[
+                    {
+                        "id":1,
+                        "name":"David Hunter",
+                        "bio":"David is a multidisciplinary designer, coder, educator, and PhD student at the ATLAS Institute, CU Boulder. He is an experienced designer and educator, researching tools and interfaces to data that empower users, situates data, and prompt discussion through exploration, sense-making, enquiry.",
+                        "web":"https://davidhunterdesign.com/",
+                        "image":""
+                    }
+                ],
+                "images":[
+                    {
+                        "id":1,
+                        "filename":"1111_i1.jpg",
+                        "caption":"The Winds Through Time exhibit showing physicalization and projection of data"
+                    },
+                    {
+                        "id":2,
+                        "filename":"1111_i2.jpg",
+                        "caption":"The Winds Through Time exhibit with supporting wall graphics"
+                    },
+                    {
+                        "id":3,
+                        "filename":"1111_i3.jpg",
+                        "caption":"A visitor interacts with the blocks"
+                    },
+                    {
+                        "id":4,
+                        "filename":"1111_i4.jpg",
+                        "caption":"The Winds Through Time exhibit in Moving Mountains mode"
+                    },
+                    {
+                        "id":5,
+                        "filename":"1111_i5.jpg",
+                        "caption":"Detailed view of projections and physicalizations"
+                    },
+                    {
+                        "id":6,
+                        "filename":"1111_i6.jpg",
+                        "caption":"Detailed view of projections and physicalizations"
+                    },
+                    {
+                        "id":7,
+                        "filename":"1111_i7.jpg",
+                        "caption":"A storm passes over a low mountain range"
+                    }
+                ]
+            },
+            {
+                "id":1046,
+                "type":"pictorial",
+                "title":"Rejecting Colonial Practices in Data Storytelling",
+                "desc":"Given the difficulties and inherent problems of data, how do we approach data representations in a decolonial way? This annotated portfolio by Kontinentalist illustrates our evolving practice and attempt at forging a path grounded in a community manifesto that looks to challenge the need for accuracy and certainty, centring design in Indigenous vernacular and knowledge, and challenging reductivism. ",
+                "web":"",
+                "arxiv":"",
+                "email":"peiying@kontinentalist.com",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"rejecting-colonial-practices",
+                "authors":[
+                    {
+                        "id":2,
+                        "name":"Pei Ying Loh",
+                        "bio":"Pei Ying leads the company in achieving its strategic development plans, and is the team’s resident data editor. She is a board member for the Society for News Design. Her recent award-winning stories include How attainable is the Singapore dream: An investigation into public housing (Award of Excellence, Society for News Design Awards, Design - Regional/Local) and Rubber, Race, and Colonial Exploitation (Sigma Shortlist 2024). Pei Ying recently completed an MSc in Data, Inequality and Society at the University of Edinburgh's Futures Institute with support from the Chevening Foundation.",
+                        "web":"",
+                        "image":"Pei-Ying-Loh.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Nabilah Said",
+                        "bio":"Nabilah oversees the research, experimentation and editorial direction of Kontinentalist. She has 15 years' experience in journalism and communications, and was an arts correspondent at Singapore’s main broadsheet, The Straits Times. Nabilah has worked with institutions including Singapore's National Heritage Board, National Gallery Singapore, Singapore Art Museum, Cultural Economy Development Agency (Malaysia) and Mekong Cultural Hub. Her work in writing and editing has won awards at Society for News Design Awards, WAN-IFRA Asia Digital Media Awards, and One World Media Awards.",
+                        "web":"",
+                        "image":"Nabilah-Said.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Griselda Gabriele",
+                        "bio":"Griselda is an illustrator and multimedia designer. She creates illustrations and data visualisation designs, and assists with workshops and data literacy-related projects. She has written and researched for stories on Southeast Asian films and media, such as Creating Spaces for Dialogue and What’s the State of Southeast Asian Sci-fi?. Her award-winning stories include A Woman’s World (Innovative Storytelling Award, One World Media Awards 2024; Silver, Information is Beautiful Awards 2023) and Jakarta’s Roadside Food Sellers (Bronze, Society for News Design, Best of Digital Design 2024).",
+                        "web":"",
+                        "image":"Griselda-Gabriele.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"Munirah Mansoor",
+                        "bio":"Munirah is a visual designer with a focus on unpacking the intersection between visuals and data from a Nusantara and humanities perspective. Her award-winning works include Gaza Lives: Resisting Cultural Genocide (Award of Excellence, Page Design, Society of News Design; Places, Language & Identity, Information Is Beautiful Awards), and Sexual Violence in Singapore: A Crisis (Award of Excellence, Society for News Design, Best of Digital Design 2021). She also looks after Kontinentalist's award-winning monthly newsletter, notes from the equator (Award of Excellence, Society of News Design).",
+                        "web":"",
+                        "image":"Munirah-Mansoor.jpg"
+                    },
+                    {
+                        "id":6,
+                        "name":"Zafirah Zein",
+                        "bio":"Zafirah writes data-driven stories with an Asian angle, and takes care of Kontinentalist’s award-winning monthly newsletter, notes from the equator. Her key stories include Gaza Lives: Resisting Cultural Genocide, a partnership with Visualizing Palestine (Award of Excellence, Page Design, Society of News Design; Places, Language & Identity, Information Is Beautiful Awards), and Abandoned at Sea: The Desperate Journey of Rohingya Refugees (Award of Excellence, Society for News Design, Best of Digital Design). She is also a freelance writer and was previously a correspondent for Eco-Business.",
+                        "web":"",
+                        "image":"Zafirah-Zein.jpg"
+                    },
+                    {
+                        "id":7,
+                        "name":"Amanda Teo",
+                        "bio":"Amanda majored in Design Communication in LASALLE College of the Arts. During her time there, she fell in love with maps and data visualisation after studying Massimo Vignelli’s redesign of New York City’s Subway map. Inspired to learn more, she embarked on a summer exchange at Rhode Island School of Design in 2018 to study Information Design. At Kontinentalist, she looks after UI and UX research and design, supporting writers with designing data visualisations, as well as client work.",
+                        "web":"",
+                        "image":""
+                    }
+                ],
+                "images":[
+                    {
+                        "id":8,
+                        "filename":"1046_i1.jpg",
+                        "caption":"Air Pasang Surut (2025) is a participatory data exhibition engaging Singapore’s coastal communities to explore the effects of displacement."
+                    },
+                    {
+                        "id":9,
+                        "filename":"1046_i2.jpg",
+                        "caption":"Gaza Lives: Resisting Cultural Genocide (2024) is a story on destruction of places integral to Palestinian life told in three chapters."
+                    },
+                    {
+                        "id":10,
+                        "filename":"1046_i3.jpg",
+                        "caption":"The Hidden Green (2024) explores datafied knowledge, urban planning, and nature through a data visualisation artwork at Singapore Art Museum."
+                    }
+                ]
+            },
+            {
+                "id":1053,
+                "type":"pictorial",
+                "title":"Kaleidoscope of Thoughts: Experimental Visualization of Cognitive Turbulence",
+                "desc":"Kaleidoscope of Thoughts is a 360° immersive media installation that visualizes the complexity of human cognition and emotion through participatory storytelling. Built from over forty voice notes and reflections in fifteen languages, including American Sign Language. The work translates raw thoughts into a layered audiovisual journey. Voices overlap, refract, and evolve across a 55-speaker spatial sound system, enveloping visitors in a sonic tapestry of worry, gratitude, aspiration, and hope. The visual environment, designed in TouchDesigner, unfolds as a seven-minute sequence of pre-rendered generative forms and symbolic textures. Cyanotype imprints evoke memory and personal history, while noise patterns and distorted text externalize mental turbulence. Algorithmic tunnels inspired by the Fibonacci sequence trace nonlinear pathways of thought, punctuated by animated clusters representing shifting emotions. The “thought bubbles” illustrate clarity and optimism, and the installation culminates in a dynamically animated Lorenz attractor, the Butterfly Effect, symbolizing how even the smallest shift in perspective can spark transformation. At the center of the installation stands a custom-built mirrored kaleidoscope, multiplying reflections of both visuals and audience members. This sculptural form emphasizes the interconnectedness of personal and collective experience, inviting participants to see themselves as integral to the evolving narrative. By weaving together sound, light, and projection mapping with contributions from diverse communities, Kaleidoscope of Thoughts fosters empathy, reflection, and collective care. It offers more than a visualization of mental processes, it is a contemplative environment where individual voices merge into a shared landscape of resilience, reminding us that subtle changes in thought can open profound possibilities for connection and healing.",
+                "web":"https://www.meghasachdeva.com/portfolio-collections/my-portfolio/kaleidoscope-of-thoughts",
+                "arxiv":"",
+                "email":"meghasachdeva135@gmail.com",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"kaleidoscope",
+                "authors":[
+                    {
+                        "id":8,
+                        "name":"Megha Sachdeva",
+                        "bio":"Megha Sachdeva is an award-winning media artist and creative technologist whose practice blends technical artistry, XR development, and immersive design. Her works have been showcased internationally and recognized for their ability to merge storytelling, data-driven design, and sensory engagement. Deeply inspired by memory, emotion, and mental well-being, Megha creates transformative environments that connect audiences through art, technology, and human experience.",
+                        "web":"https://www.meghasachdeva.com",
+                        "image":"Megha-Sachdeva.jpg"
+                    },
+                    {
+                        "id":9,
+                        "name":"Cambelle Gregory",
+                        "bio":"Cambelle Gregory is an award-winning sound designer whose work spans short films and independent feature films. Based in Los Angeles, she freelances across projects, bringing depth and emotion to storytelling through sound. Her passion lies in crafting sonic experiences that resonate with audiences, creating moments in theaters where sound doesn’t just accompany the story, but moves people at their core.",
+                        "web":"https://camigregory02.wixsite.com/art-of-cami-gregory",
+                        "image":"Cambelle-Gregory.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":11,
+                        "filename":"1053_i1.jpg",
+                        "caption":"Gestures of love in ASL expand Kaleidoscope of Thoughts into its 16th language: the unspoken."
+                    },
+                    {
+                        "id":12,
+                        "filename":"1053_i2.jpg",
+                        "caption":"Memories as cyanotypes: childhood moments fading under sunlight, yet deeply etched in being."
+                    },
+                    {
+                        "id":13,
+                        "filename":"1053_i3.jpg",
+                        "caption":"A visual of mental clutter, noise and words tangled in the storm of thought."
+                    },
+                    {
+                        "id":14,
+                        "filename":"1053_i4.jpg",
+                        "caption":"Thoughts Bubble: where changing perspectives scatter human emotion into radiant colors of hope."
+                    },
+                    {
+                        "id":15,
+                        "filename":"1053_i5.jpg",
+                        "caption":"Tunnel of Thoughts - a Fibonacci maze of memory, where bright joys and tiny scars intertwine endlessly"
+                    },
+                    {
+                        "id":16,
+                        "filename":"1053_i6.jpg",
+                        "caption":"Kaleidoscope mirrors stand as portals, reflecting the self amid projected hues of emotion."
+                    },
+                    {
+                        "id":17,
+                        "filename":"1053_i7.jpg",
+                        "caption":"The Butterfly Effect - small shifts in perspective ripple into profound transformations."
+                    },
+                    {
+                        "id":18,
+                        "filename":"1053_i8.jpg",
+                        "caption":"Kaleidoscope of Thoughts is a 360° immersive art installation with spatialized audio, kaleidoscope mirrors at the center, and surrounding projections."
+                    },
+                    {
+                        "id":19,
+                        "filename":"1053_i9.jpg",
+                        "caption":"Immersed in monochrome light, kaleidoscope patterns echo the quiet weight of reflection."
+                    },
+                    {
+                        "id":20,
+                        "filename":"1053_i10.jpg",
+                        "caption":"Audience immersed in the opening showcase of Kaleidoscope of Thoughts, a 360° immersive art installation."
+                    }
+                ]
+            },
+            {
+                "id":1103,
+                "type":"pictorial",
+                "title":"AI-Generated Images for representing Individuals – Navigating the Thin Line Between Care and Bias",
+                "desc":"This research discusses the figurative tensions that arise when using portraits to represent individuals behind a dataset. In the broader effort to communicate European data related to depression, the Kiel Science Communication Network (KielSCN) team attempted to engage a wider audience by combining interactive data graphics with AI-generated images of people. This article examines the project’s decisions and results, reflecting on the reaction from the audience when information design incorporates figurative representations of individuals within the data.",
+                "web":"https://www.kielscn.de/en/projects/customization-through-interactive-design/",
+                "arxiv":"https://arxiv.org/abs/2509.03071",
+                "email":"jahrend@kielscn.de",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"ai-generated-images",
+                "authors":[
+                    {
+                        "id":10,
+                        "name":"Julia C. Ahrend",
+                        "bio":"Julia C. Ahrend is doing her doctorate on the topic of visual science communication and is a PhD candidate at the University of the Arts Bremen in the Binational Artistic PhD Program. Moreover she is research assistant at the Kiel Science Communication Network and affiliated with the metaLab. In her PhD project she investigates different perspectives on the quality of visual science communication, ranging from theory to practice. For her, research is a combination of practical work, empirical inquiry, and theoretical approaches, building on her communication design studies in Kiel and Paris.",
+                        "web":"https://www.kielscn.de/en/",
+                        "image":"Julia-C-Ahrend.jpg"
+                    },
+                    {
+                        "id":11,
+                        "name":"Björn Döge ",
+                        "bio":"Björn Döge works at the intersection of design and science communication as a research associate and information designer at the Kiel Science Communication Network. His focus is on creating emotionally engaging and visually appealing data visualizations for scientific research.",
+                        "web":"https://www.kielscn.de/en/",
+                        "image":"Bjorn-Doge.jpg"
+                    },
+                    {
+                        "id":12,
+                        "name":"Tom M Duscher",
+                        "bio":"Prof. Tom Duscher is a designer and Professor of Interactive Media at Muthesius University of Fine Arts in Kiel, Germany, where he has taught since 2003. He leads the Center for Media and specializes in information design and scientific visualization. In 2015, he founded the Science Communication Lab, an award-winning design studio dedicated to innovative visual science communication. Since 2021, he has served as Senior Principal Investigator at the Kiel Science Communication Network, researching visual formats and processes in both design and science communication.",
+                        "web":"https://interaktive-medien.muthesius-kunsthochschule.de/",
+                        "image":"Tom-M-Duscher.jpg"
+                    },
+                    {
+                        "id":13,
+                        "name":"Dario Rodighiero",
+                        "bio":"Dario Rodighiero is Assistant Professor of Science and Technology Studies at the University of Groningen, where he teaches data and visual literacy. He is faculty associate at Harvard’s Berkman Klein Center and principal at metaLAB. His research bridges design and computation to map science, visualize cultural archives, and rethink knowledge design. He is author of Mapping Affinities, a book that reimagines organizational charts and proposes new ways to visualize collaboration.",
+                        "web":"https://dariorodighiero.com/",
+                        "image":"Dario-Rodighiero.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":21,
+                        "filename":"1103_i1.jpg",
+                        "caption":"Section of the article's desktop version containing the interactive in- formation graphic."
+                    },
+                    {
+                        "id":22,
+                        "filename":"1103_i2.jpg",
+                        "caption":"View of the mobile version of the interactive article."
+                    },
+                    {
+                        "id":23,
+                        "filename":"1103_i3.jpg",
+                        "caption":"Visual exploration leading to the final visual style and prompt."
+                    },
+                    {
+                        "id":24,
+                        "filename":"1103_i4.jpg",
+                        "caption":"Visual exploration leading to the final visual style and prompt."
+                    },
+                    {
+                        "id":25,
+                        "filename":"1103_i5.jpg",
+                        "caption":"Visual exploration leading to the final perspective of 'Rückenfigur'."
+                    },
+                    {
+                        "id":26,
+                        "filename":"1103_i6.jpg",
+                        "caption":"Visual exploration leading to the final perspective of 'Rückenfigur'"
+                    }
+                ]
+            },
+            {
+                "id":1000,
+                "type":"pictorial",
+                "title":"Balaton Borders: Data Ceramics for Ecological Reflection",
+                "desc":"Balaton Borders transforms ecological data from Hungary’s largest freshwater lake into ceramic tableware. Each mug, jug, plate, and bowl encodes site-specific information about reedbed loss, shoreline modification, soil erosion, sedimentation, and urban expansion. Through their shapes, volumes, and material interventions, the pieces embody the disruptions affecting Lake Balaton’s fragile ecosystem. The project extends beyond objects into performative dining events, where participants share meals served on data ceramics. These gatherings highlight how commensality—the act of eating together—can foster awareness and conversation. At the table, ecological data is not only read or seen but felt, tasted through everyday rituals. Balaton Borders invites audiences to slow down and consider the entanglement of human activity and environmental fragility. It asks what happens when we bring the dysfunctions of our ecosystems to the table and share them as part of a collective experience.",
+                "web":"https://hajnalgyeviki.com/portfolio/data-driven-ceramics-sensitisation-on-the-ecology-of-lake-balaton/",
+                "arxiv":"https://arxiv.org/abs/2509.02284",
+                "email":"damla.cay@mome.hu",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"balaton-borders",
+                "authors":[
+                    {
+                        "id":14,
+                        "name":"Hajnal Gyeviki",
+                        "bio":"Hajnal Gyeviki researches the possibilities of ecological action in contemporary ceramics. She designs transdisciplinary projects merging data physicalisation, ecology and food design. Her method is a blend of design thinking and self-developed approaches that results in tangible, thought-provoking, discursive, and often critical outcomes. ",
+                        "web":"https://hajnalgyeviki.com",
+                        "image":"Hajnal-Gyeviki.jpg"
+                    },
+                    {
+                        "id":15,
+                        "name":"Mihály Minkó",
+                        "bio":"Mihály Minkó is a researcher and teacher of the Ecology and Action Lab at Moholy-Nagy University of Art and Design. He also works together with companies to help soften up hard data skills through creative visualization journeys. Besides visual representation of data, he creates physical installations on different topics, mostly focusing on social issues. He is also a regular speaker at national business intelligence conferences and facilitates collaborations between industry and academia.",
+                        "web":"https://www.linkedin.com/in/mihalyminko/",
+                        "image":"Mihaly-Minko.jpg"
+                    },
+                    {
+                        "id":16,
+                        "name":"Mary Karyda",
+                        "bio":"Mary Karyda is Lead Researcher of the Ecology and Action Lab at Moholy-Nagy University of Art and Design. As an HCI researcher, she explores how data representations prompt dialogue, reflection, and meaning-making. Through participatory design workshops and interactive prototypes, she engages diverse stakeholders to surface and negotiate knowledge. Focusing on socio-ecological challenges, she examines how co-designed data can be transformative when embodied and experienced within cultural contexts.",
+                        "web":"",
+                        "image":"Mary-Karyda.jpg"
+                    },
+                    {
+                        "id":17,
+                        "name":"Damla Çay",
+                        "bio":"Damla Çay is a design researcher at Moholy-Nagy University of Art and Design. She is interested in understanding how people experience and interact with data in everyday life. Her work focuses on participatory approaches that involve diverse actors, including those without visualization expertise, in the design process. She also explores activities that build data visualization literacy and support creative, engaging ways of working with data.",
+                        "web":"https://damlacay.com",
+                        "image":"Damla-Cay.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":27,
+                        "filename":"1000_i1.jpg",
+                        "caption":"Tableware from Balaton Borders visualizing ecological data from Lake Balaton."
+                    },
+                    {
+                        "id":28,
+                        "filename":"1000_i2.jpg",
+                        "caption":"A participant pours water through a perforated mug, physicalizing reed ecosystem disruption."
+                    },
+                    {
+                        "id":29,
+                        "filename":"1000_i3.jpg",
+                        "caption":"Vegan fish soup overflows from a sloped plate, mirroring erosion of the area."
+                    },
+                    {
+                        "id":30,
+                        "filename":"1000_i4.jpg",
+                        "caption":"A participant cuts into lángos served beside a concrete segment, symbolizing built-up land and lost habitat."
+                    },
+                    {
+                        "id":31,
+                        "filename":"1000_i5.jpg",
+                        "caption":"Guests share a performative meal using data ceramics, turning dining into collective ecological reflection."
+                    }
+                ]
+            },
+            {
+                "id":1125,
+                "type":"pictorial",
+                "title":"The Fire We Share",
+                "desc":"The Fire We Share proposes a care-centered, consequence-aware visualization framework for engaging with wildfire data not as static metrics, but as living archives of ecological and social entanglement. By combining plant-inspired data forms, event-based mapping, and narrative layering, the project foregrounds fire as a shared temporal condition—one that cuts across natural cycles and human systems. Rather than simplifying wildfire data into digestible visuals, The Fire We Share reimagines it as a textured, wounded archive—embodied, relational, and radically ethical.",
+                "web":"https://www.behance.net/gallery/236439929/The-Fire-we-share",
+                "arxiv":"https://arxiv.org/abs/2510.10841",
+                "email":"chenwangdesign@gmail.com",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"the-fire-we-share",
+                "authors":[
+                    {
+                        "id":18,
+                        "name":"Chen Wang",
+                        "bio":"Chen Wang is Professor of Graphic and Interactive Design at California State University, Fullerton. His scholarship and practice center on UI/UX, human–AI co-creation, ethical and ecological approaches to information design and data visualization, semantics, accessibility, and branding. He previously served on the faculty of the Visual Communication Design program at Texas Tech University. He has co-authored two books, Information Design and Branding and Yinggelishi. Ongoing projects include The Fire We Share, AR_Boretum, and JUEJU.",
+                        "web":"https://www.behance.net/chenwang",
+                        "image":"Chen-Wang.jpg"
+                    },
+                    {
+                        "id":19,
+                        "name":"Mengtan Lin",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    }
+                ],
+                "images":[
+                    {
+                        "id":32,
+                        "filename":"1125_i1.jpg",
+                        "caption":"California’s fire seasons visualized in polar time (2000–2018, >10k acres), linked to climate agendas, policy shifts, and funding changes."
+                    },
+                    {
+                        "id":33,
+                        "filename":"1125_i2.jpg",
+                        "caption":"Selected wildfire unfolds as a 3D pinecone archive: five narrative rings integrate fire metrics with climate, policy, funding, and community impact."
+                    },
+                    {
+                        "id":34,
+                        "filename":"1125_i3.jpg",
+                        "caption":"Fire-scarred tree-ring atlas: collected sections; ring textures map fire data fused with climate, policy, funding, and community impacts."
+                    },
+                    {
+                        "id":35,
+                        "filename":"1125_i4.jpg",
+                        "caption":"Design sketches evolving the pinecone as an information cluster, translating wildfire events into layered rings for a 3D pinecone archive."
+                    },
+                    {
+                        "id":36,
+                        "filename":"1125_i5.jpg",
+                        "caption":"Narrative as interface: Three levels—Pinecone overview, Event archive, Memory layers—mapping each ring to Time, Place, Voice, Emotion, and Prompt."
+                    },
+                    {
+                        "id":37,
+                        "filename":"1125_i6.jpg",
+                        "caption":"Pinecone archive of wildfire memory: five layers—ecological data, policy, counter-data, voice gaps, and participatory co-creation."
+                    },
+                    {
+                        "id":38,
+                        "filename":"1125_i7.jpg",
+                        "caption":"Ritual interface: four acts—breath, light, circle, voices—guide an AR/VR pinecone archive, opening rings of Time, Place, Voice, Emotion, Prompt."
+                    },
+                    {
+                        "id":39,
+                        "filename":"1125_i8.jpg",
+                        "caption":"Voices of Fire: testimonies from residents, responders, and officials—encoded by tone, emotion, and origin—surfacing tensions in wildfire memory."
+                    }
+                ]
+            }
+        ],
+        "papers":[
+            {
+                "id":1036,
+                "type":"paper",
+                "title":"Psychomare: A Psychoanalytic and XR-Based Artistic Exploration into Nightmare Visualization",
+                "desc":"Psychomare is an artistic research project that explores the visualization of nightmares through a psychoanalytic and XR-based performance methodology. By treating dreams as symbolic data and nightmares as distortions of subjective recognition, the project translates psychological fear into tangible visual forms. Utilizing AI-driven imagery, embodied dance performance, and virtual production technologies, Psychomare creates an immersive dream-scape where the dancer confronts surreal nightmare entities derived from personal and collective dream memories. Drawing on Lacanian theory, the work proposes that nightmares emerge from a mis-recognition of the self—a mirrored distortion of unconscious desires and fears projected onto dream imagery. This symbolic mis-recognition becomes the conceptual core of the project, guiding its aesthetic and choreographic strategies. Feedback from the dancer, audience, and a psychoanalyst reveals strong emotional resonance and aesthetic depth, suggesting that the visualization of nightmares can foster self-reflection, emotional confrontation, and collective empathy. This project offers a new model for integrating immersive art, psychoanalytic theory, and technological mediation as a path of collective care.",
+                "web":"https://www.jiayanghuang.com/psychomare/",
+                "arxiv":"",
+                "email":"jarryyyhuang@gmail.com",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"psychomare",
+                "authors":[
+                    {
+                        "id":20,
+                        "name":"Jiayang Huang",
+                        "bio":"Jiayang was born in Hangzhou, China, and is a new media artist and academic researcher. He graduated from the Affiliated High School of the China Academy of Art, Luxun Academy of Fine Arts (BFA), and holds an MFA from the Maryland Institute College of Art. Currently, he is pursuing a PhD in Computational Media Art at the Hong Kong University of Science and Technology (Guangzhou). Jiayang’s research lies at the intersection of artistic practice, technological media, and psychoanalysis, with a particular focus on individual subjectivity and the unconscious mind. ",
+                        "web":"https://www.jiayanghuang.com/",
+                        "image":"Jiayang-Huang.jpg"
+                    },
+                    {
+                        "id":21,
+                        "name":"Joshua Nijiati Alimujiang",
+                        "bio":"",
+                        "web":"",
+                        "image":"Joshua-Nijiati-Alimujiang.jpg"
+                    },
+                    {
+                        "id":22,
+                        "name":"Kang Zhang",
+                        "bio":"Dr. Kang Zhang is Professor of the Computational Media and Arts Thrust (CMA) at the Hong Kong University of Science and Technology (Guangzhou) (HKUST-GZ), and Professor of the Division of Emerging Interdisciplinary Areas (EMIA) at the Hong Kong University of Science and Technology (HKUST). He was a Fulbright Distinguished Chair (see UTD March 2020 News) and among Stanford University 2023/2024 World’s Top 2% Scientists (Lifetime Scientific Impact Ranking).",
+                        "web":"http://www.art4.gift/",
+                        "image":"Kang-Zhang.jpg"
+                    },
+                    {
+                        "id":23,
+                        "name":"David Yip",
+                        "bio":"David is a veteran in creative industries and media education. He joined the TV and Film industries after graduating from UC Berkeley and USC School of Cinematic Arts. Since 1998, David became a founding faculty of the School of Creative Media of City University and later in 2011 a founding faculty of the creative arts programs in animation, visual effects and interactive entertainment of the Open University of Hong Kong.",
+                        "web":"www.daveyip.com ",
+                        "image":"David-Yip.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":40,
+                        "filename":"1036_i1.jpg",
+                        "caption":"A still frame from the dance performance, showing the dancer in the final moments of the film,"
+                    },
+                    {
+                        "id":41,
+                        "filename":"1036_i2.jpg",
+                        "caption":"A still from the short film, scene three."
+                    },
+                    {
+                        "id":42,
+                        "filename":"1036_i3.jpg",
+                        "caption":"A photo from a live performance."
+                    }
+                ]
+            },
+            {
+                "id":1049,
+                "type":"paper",
+                "title":"Tides of Memory: Digital Echoes of Netizen Remembrance",
+                "desc":"This research explores how collective mourning unfolds on digital platforms and how ephemeral online expressions can be preserved through visualization. Drawing on Sina Weibo posts following the deaths of seven Chinese authors since 2016, it collected tens of thousands of mourning messages and applied web scraping, natural language processing, and 3D modeling to transform unstructured textual data into interactive spatial monuments. The analysis used word frequency measures, TF-IDF feature extraction, and topic modeling to identify thematic clusters and emotional vocabularies within commemorative discourse, while statistical standardization and nonlinear transformation were introduced to balance disparities in data volume and enable meaningful comparisons across authors. A central feature of the visualization lies in the structure of the monuments: the lower segment symbolizes the author’s lifetime creative legacy, and the upper segment reflects collective remembrance through the intensity of public mourning expressed in netizens’ posts and hashtags. This dual-layer design creates a dialogue between personal creation and communal commemoration, turning fragmented and short-lived online expressions into a tangible and immersive memorial. By materializing collective grief as spatialized memory, this research offers new methods for studying digital mourning practices and provides a model for preserving cultural remembrance in the networked age.",
+                "web":"",
+                "arxiv":"https://arxiv.org/abs/2509.16579",
+                "email":"lingyupeng6@163.com",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"tides-of-memory",
+                "authors":[
+                    {
+                        "id":24,
+                        "name":"Lingyu Peng",
+                        "bio":"Lingyu Peng is a Master’s student at the Future Design School, Harbin Institute of Technology. His research focuses on AI-assisted design, artistic visualization, and interactive installation design. He is committed to exploring how artificial intelligence can be more naturally integrated into design processes and artistic experiences.",
+                        "web":"https://xhslink.com/m/1o61zmiHV3U",
+                        "image":"Lingyu-Peng.jpg"
+                    },
+                    {
+                        "id":25,
+                        "name":"Chang Ge",
+                        "bio":"Background in design with experience in transportation interaction design and user research. Current work focuses on user experience and system applications in future air mobility, exploring how design can support more intuitive and human-centered flight experiences.",
+                        "web":"",
+                        "image":"Chang-Ge.jpg"
+                    },
+                    {
+                        "id":26,
+                        "name":"Liying Long",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":27,
+                        "name":"Xin Li",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":28,
+                        "name":"Xiao Hu",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":29,
+                        "name":"Pengda Lu",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":30,
+                        "name":"Qingchuan Li",
+                        "bio":"Dr. Qingchuan Li is an Associate Professor at Harbin Institute of Technology, Shenzhen. Her research interests include human-computer interaction, ergonomics in design, usability and user experience, with a specific focus on gerotechnology interventions to prevent cognitive and physical impairments among the elderly. She has published several peer-reviewed journal papers, book chapters, and proceeding papers.",
+                        "web":"https://scholar.google.com/citations?user=Gx-ibOEAAAAJ&hl=zh-CN&oi=ao",
+                        "image":""
+                    },
+                    {
+                        "id":31,
+                        "name":"Jiangyue Wu",
+                        "bio":"Dr. Jiangyue Wu is an Assistant Professor at the Shenzhen International School of Design / Future Design School, Harbin Institute of Technology (Shenzhen). She earned her Ph.D. from The University of Hong Kong. Her research primarily focuses on data analysis and visualization, user behavior in XR environments, and activity analytics. She is dedicated to integrating insights from research, design, and practice to foster more sustainable ways of living for the future.",
+                        "web":"https://faculty.hitsz.edu.cn/wujiangyue",
+                        "image":"Jiangyue-Wu.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":43,
+                        "filename":"1049_i1.jpg",
+                        "caption":"Tides of Memory_monument_space_view"
+                    },
+                    {
+                        "id":44,
+                        "filename":"1049_i2.jpg",
+                        "caption":"Tides of Memory_tides_particle"
+                    },
+                    {
+                        "id":45,
+                        "filename":"1049_i3.jpg",
+                        "caption":"Tides of Memory_monument_particle_detail"
+                    },
+                    {
+                        "id":46,
+                        "filename":"1049_i4.jpg",
+                        "caption":"Tides of Memory_viewer_interaction_closeup"
+                    }
+                ]
+            },
+            {
+                "id":1124,
+                "type":"paper",
+                "title":"The Knowledge Cosmos: An Immersive Platform for Interdisciplinary Research Discovery",
+                "desc":"As the volume of scientific literature continues to expand exponentially, traditional research tools struggle to keep pace—often reinforcing disciplinary silos and limiting opportunities for discovery. The Knowledge Cosmos reimagines research exploration through an interactive, 3D visualization platform that treats science not as a static repository, but as a navigable universe. By spatializing 17 million academic papers based on semantic similarity, the platform enables users to explore the structure of knowledge intuitively, uncover interdisciplinary connections, and identify underexplored intellectual gaps. Drawing on the principles of play, immersion, and serendipity, The Knowledge Cosmos democratizes the bird’s eye view of research and encourages curiosity-driven inquiry across a wide range of users including students, educators, independent thinkers, and lifelong learners. This paper outlines the conceptual foundations, design, and technological infrastructure of the platform, shares insights from preliminary usability testing, and discusses future directions to scale its potential as a catalyst for interdisciplinary exploration and knowledge creation.",
+                "web":"",
+                "arxiv":"",
+                "email":"rifaa_tajani@mde.harvard.edu",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"knowledge-cosmos",
+                "authors":[
+                    {
+                        "id":32,
+                        "name":"Alec McGail",
+                        "bio":"Alec McGail is a computational sociologist whose research combines network science, natural language processing, and social theory to explore how knowledge is produced, remembered, and forgotten. He earned his PhD from Cornell University, where he studied citation dynamics, collective memory, and intellectual lineage in the social sciences. He now is a full-time contractor for NASA, building tools for designing and running LLM-Human workflows, which scaffold and gamify processes for brainstorming future scenarios and technological innovation in Convergent Aeronautics Solutions.",
+                        "web":"",
+                        "image":"Alec-McGail.jpg"
+                    },
+                    {
+                        "id":33,
+                        "name":"Rifaa Tajani",
+                        "bio":"Rifaa Tajani is an artist, designer, and technologist whose work spans systems thinking, storytelling, and product design. She is currently a Master in Design Engineering (MDE) candidate at Harvard University and holds a B.A. in Design and B.B.A. Information Systems from The University of Texas at Austin. As an Innovation Designer at IBM, she works at the forefront of generative AI and emerging technologies to build tools that bridge user needs with technical possibility.",
+                        "web":"",
+                        "image":"Rifaa-Tajani.jpg"
+                    },
+                    {
+                        "id":34,
+                        "name":"Nikita Sridhar",
+                        "bio":"Nikita Sridhar is a UX designer and researcher based in New York City with a background in mechanical engineering and a master’s degree in User Experience and HCI from the University of Michigan. Her work spans interdisciplinary collaboration, immersive technologies, and sustainable design, with a focus on making complex systems accessible and engaging. At IBM Client Engineering, she leads human-centered design for enterprise AI solutions.",
+                        "web":"",
+                        "image":"Nikita-Sridhar.jpg"
+                    },
+                    {
+                        "id":35,
+                        "name":"Jiabao Li",
+                        "bio":"Jiabao Li creates works addressing climate change, interspecies co-creation, humane technology, and perceptions. Her mediums include wearable, robot, AR/VR, performance, scientific experiment, installation. Jiabao is the recipient of numerous awards, including Forbes China 30 Under 30, iF Design Award, Falling Walls, NEA, STARTS Prize, Fast Company, Core77, IDSA, A’ Design Award, Webby Award, Cannes World Film Festival Award, and Outstanding Instructor Award. Jiabao is a Tenure Track Assistant Professor at The University of Texas at Austin and graduated from Harvard GSD with Distinction.",
+                        "web":"",
+                        "image":"Jiabao-Li.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":47,
+                        "filename":"1124_i1.jpg",
+                        "caption":"The Knowledge Cosmos complete map of 17 million research papers."
+                    },
+                    {
+                        "id":48,
+                        "filename":"1124_i2.jpg",
+                        "caption":"The Knowledge Cosmos map layered with constellations of the Art and Environmental Science disciplines."
+                    },
+                    {
+                        "id":49,
+                        "filename":"1124_i3.jpg",
+                        "caption":"Biology papers of The Knowledge Cosmos colored by subdiscipline."
+                    },
+                    {
+                        "id":50,
+                        "filename":"1124_i4.jpg",
+                        "caption":""
+                    },
+                    {
+                        "id":51,
+                        "filename":"1124_i5.jpg",
+                        "caption":""
+                    }
+                ]
+            },
+            {
+                "id":1116,
+                "type":"paper",
+                "title":"Simulacra Naturae: Generative Ecosystem driven by Agent-Based Simulations and Brain Organoid Collective Intelligence",
+                "desc":"Simulacra Naturae is a data-driven media installation that explores collective care through the entanglement of biological computation, material ecologies, and generative systems. The work translates pre-recorded neural activity from brain organoids, lab-grown three-dimensional clusters of neurons, into a multi-sensory environment composed of generative visuals, spatial audio, living plants, and fabricated clay artifacts. These biosignals, streamed through a real-time system, modulate emergent agent behaviors inspired by natural systems such as termite colonies and slime molds. Rather than using biosignals as direct control inputs, Simulacra Naturae treats organoid activity as a co-creative force, allowing neural rhythms to guide the growth, form, and atmosphere of a generative ecosystem. The installation features computationally fabricated clay prints embedded with solenoids, adding physical sound resonances to the generative surround composition. The spatial environment, filled with live tropical plants and a floor-level projection layer featuring real-time generative AI visuals, invites participants into a sensory field shaped by nonhuman cognition. By grounding abstract data in living materials and embodied experience, Simulacra Naturae reimagines visualization as a practice of care, one that decentralizes human agency and opens new spaces for ethics, empathy, and ecological attunement within hybrid computational systems.",
+                "web":"https://nefeliman.com/simulacra-naturae",
+                "arxiv":"https://arxiv.org/abs/2509.02924",
+                "email":"merttoka@ucsb.edu",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"simulacra-naturae",
+                "authors":[
+                    {
+                        "id":36,
+                        "name":"Nefeli Manoudaki",
+                        "bio":"Nefeli Manoudaki is an architect-engineer and Ph.D. student in Media Arts and Technology at UC Santa Barbara. Her practice sits at the convergence of nature, sensory experience, and design, using new technologies to craft immersive environments and installations. She researches AI, immersive systems, and bio-inspired architectural forms in tangible and digital media (XR, AI/ML). Guided by morphological and cognitive principles, she creates experiences that reconnect audiences with the natural world. Her work has shown at Ars Electronica, ISEA, ACM SIGGRAPH, and more.",
+                        "web":"https://nefeliman.com/",
+                        "image":"Nefeli-Manoudaki.jpg"
+                    },
+                    {
+                        "id":37,
+                        "name":"Mert Toka",
+                        "bio":"Mert is a computer scientist, media artist, and HCI researcher focused on creativity-support tools, generative art and design, agent-based simulation, data visualization, and computational fabrication. He builds interactive audiovisual systems, investigates emergent patterns, and explores the interplay of digital and physical making. His work has been published in CHI, UIST, DIS, IEEE VIS, and VISAP. He holds a Ph.D. and an M.S. in Media Arts & Technology from UC Santa Barbara, where he was a Fulbright Scholar, as well as a B.S. in Computer Science and Engineering from Sabancı University.",
+                        "web":"https://www.merttoka.com/",
+                        "image":"Mert-Toka.jpg"
+                    },
+                    {
+                        "id":38,
+                        "name":"Iason Paterakis",
+                        "bio":"Iason N. Paterakis is a California-based architect-engineer and media artist, and a Ph.D. student in Media Arts & Technology at UC Santa Barbara’s transLAB (Prof. Marcos Novak). His work centers on biodata (e.g., brain organoid activity), AI-driven immersive environments, and large-venue projection mapping. He has presented at ACM SIGGRAPH, ISEA, and Ars Electronica, with projects across Asia, Europe, North America, and Antarctica. He also publishes in venues such as the International Astronautical Congress and IJAC.",
+                        "web":"https://www.iasonpaterakis.com/",
+                        "image":"Iason-Paterakis.jpg"
+                    },
+                    {
+                        "id":39,
+                        "name":"Diarmid Flatley",
+                        "bio":"Diarmid Flatley is a composer, media artist, and researcher. His work develops metacompositional approaches to artmaking that connect disparate modalities and media through generative processes. His interests include high-dimensional spaces, dynamical systems, emergent structures, crossmodal correspondences, and multisensory integration. He holds a Ph.D. in Media Arts & Technology (UC Santa Barbara), an M.M. in Theory & Composition (NYU), and a B.A. in Music (UC San Diego). His works have been exhibited at accredited venues including ISEA and ACM SIGGRAPH.",
+                        "web":"https://www.diarmidflatley.com/",
+                        "image":"Diarmid-Flatley.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":52,
+                        "filename":"1116_i1.jpg",
+                        "caption":"The large-scale installation annotated with details: LED matrix, alive plants, 3D-printed ceramics, wall and floor projections."
+                    },
+                    {
+                        "id":53,
+                        "filename":"1116_i2.jpg",
+                        "caption":"The LED matrix displays brain organoid neuron activity and controls the fiber optics and solenoids embedded within glassware. "
+                    },
+                    {
+                        "id":54,
+                        "filename":"1116_i3.jpg",
+                        "caption":"Various views of the multi-layered artificial life simulations containing slime mold, termite, and flocking agents in a virtual ecosystem. "
+                    }
+                ]
+            },
+            {
+                "id":1076,
+                "type":"paper",
+                "title":"You Only Have Seven Seconds: From Intimate Whispers to Shared Worlds in Participatory Data-Driven Cinematic Art",
+                "desc":"You Only Have Seven Seconds is a cinematic artistic visualization derived from an interactive AI art installation (ReCollection) that explores how machine intelligence can reassemble collective human memory through language input. Motivated by the artist’s personal response to her grandmother’s cognitive decline and informed by current research in Critical Dementia Studies that advocates for reimagining—rather than repairing—memory, the project collects and curates whispered, seven-second recollections and machine-generated image data from installation participants. These selected datasets are transformed into a generative visualization presented as a cinematic art using custom-designed AI systems and experimental visualization strategies. This paper introduces the conceptual foundations and technical development of this project, with emphasis on data collection, experimental visualization, narrative construction, sound design, and intelligent system integration. Through the design of artificial memory, You Only Have Seven Seconds constructs a dynamic archive of shared, ephemeral recollections for storytelling.",
+                "web":"https://www.zhangweidi.com/youonlyhavesevenseconds",
+                "arxiv":"",
+                "email":"weidizhang@asu.edu",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"seven-seconds",
+                "authors":[
+                    {
+                        "id":40,
+                        "name":"Weidi Zhang",
+                        "bio":"Weidi Zhang is a new media artist and Assistant Professor of Immersive Experience Design at Arizona State University’s MIX Center. Her interdisciplinary research explores speculative assemblages at the intersection of immersive media, data visualization, and interactive AI art. Zhang’s work has received international recognition and awards from ACM SIGGRAPH, Red Dot, Prix Ars Electronica, Muse Design Award, A’ Design Award, Asia Pacific Design, and the Lumen Prize. ",
+                        "web":"www.zhangweidi.com",
+                        "image":"Weidi-Zhang.jpg"
+                    },
+                    {
+                        "id":41,
+                        "name":"Dr. Lijiaozi Cheng",
+                        "bio":"Lijiaozi Cheng is currently holding a Mildred Blaxter Postdoctoral Fellowship at the University of Sheffield, having finished her PhD there entitled Making Sense of Suboptimal Health (亚健康): Negotiating and Embodying the Conceptual Space of “Neither Healthy Nor Diseased” and having recently concluded her role as Research Associate on this project on Embedding cultural Intelligence in institutional leadership to improve inclusion. ",
+                        "web":"",
+                        "image":"Lijiaozi-Cheng.jpg"
+                    },
+                    {
+                        "id":42,
+                        "name":" Paul Taro Schmidt",
+                        "bio":"Paul Taro Schmidt is a composer from Binningen (Switzerland). He is mainly experienced in interdisciplinary projects, improvisation, chamber music, dance projects, educational programs, historically informed performance, oratorio repertoire, projects with speaker, soloist performances, studio recordings, symphonic music, theatre projects and video / film",
+                        "web":"https://www.paultaroschmidt.com/",
+                        "image":""
+                    },
+                    {
+                        "id":43,
+                        "name":"Rodger Luo",
+                        "bio":"Dr. Jieliang (Rodger) Luo is the CEO and Chief Scientist at Minus AI, a Singapore-based, research-driven startup focused on leveraging AI technology to empower the creative industry. The company develops AI tools to enhance creative processes and complete work more effectively. He holds a Ph.D. in Media Arts and Technology from the University of California, Santa Barbara, and has previously served as a Senior Principal Research Scientist at the Autodesk AI Lab in San Francisco.",
+                        "web":"https://www.linkedin.com/in/rodger-luo/",
+                        "image":"Rodger-Luo.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":55,
+                        "filename":"1076_i1.jpg",
+                        "caption":"credit to Weidi Zhang"
+                    },
+                    {
+                        "id":56,
+                        "filename":"1076_i2.jpg",
+                        "caption":"credit to Weidi Zhang"
+                    },
+                    {
+                        "id":57,
+                        "filename":"1076_i3.jpg",
+                        "caption":"credit to Weidi Zhang"
+                    }
+                ]
+            },
+            {
+                "id":1057,
+                "type":"paper",
+                "title":"Living Library of Trees: Mapping Knowledge Ecology in Arnold Arboretum",
+                "desc":"As biodiversity loss and climate change accelerate, botanical gardens serve as vital infrastructures for research, education, and conservation. This project focuses on the Arnold Arboretum of Harvard University, a 281-acre living museum founded in 1872 in Boston. Drawing on more than a century of curatorial data, the research combines historical analysis with computational methods to visualize the biographies of plants and people. The resulting platform reveals patterns of care and scientific observations, along with the collective dimensions embedded in botanical data. Using techniques from artificial intelligence, geospatial mapping, and information design, the project frames the arboretum as a system of shared agency--an active archive of more-than-human affinities that records the layered memory of curatorial labor, the situated nature of knowledge production, and the potential of design to bridge archival record and future care.",
+                "web":"",
+                "arxiv":"https://arxiv.org/abs/2509.00114",
+                "email":"johan.malmstedt@lir.gu.se",
+                "caption":"",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"living-library",
+                "authors":[
+                    {
+                        "id":44,
+                        "name":"Johan Malmstedt",
+                        "bio":"Johan Malmstedt is a media historian and sound scholar whose work explores the intersection of signal processing and historiography. He earned his PhD in Media and Communication Studies from Umeå University with a dissertation on the stylistic evolution of Swedish public service radio (1980–1999). His research combines computational methods and critical media theory to study sound media as both data and historical artifact.",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":45,
+                        "name":"Giacomo Nanni",
+                        "bio":"Giacomo is an information designer primarily interested in exploring the intersection of technology, data and design and whose work results in a wide range of methodologies, spanning from data visualisations to investigative aesthetics.",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":46,
+                        "name":"Dario Rodighiero",
+                        "bio":"Dario Rodighiero is Assistant Professor of Science and Technology Studies at the University of Groningen, where he teaches data and visual literacy. He is faculty associate at Harvard’s Berkman Klein Center and principal at metaLAB. His research bridges design and computation to map science, visualize cultural archives, and rethink knowledge design. He is author of Mapping Affinities, a book that reimagines organizational charts and proposes new ways to visualize collaboration",
+                        "web":"",
+                        "image":""
+                    }
+                ],
+                "images":[
+                    {
+                        "id":58,
+                        "filename":"1057_i1.jpg",
+                        "caption":"Mapping the histories of curatorial work at the Arnold Arboretum. "
+                    },
+                    {
+                        "id":59,
+                        "filename":"1057_i2.jpg",
+                        "caption":"Using techniques from artificial intelligence, geospatial mapping, and information design, the project frames the biographies of curators and trees. "
+                    },
+                    {
+                        "id":60,
+                        "filename":"1057_i3.jpg",
+                        "caption":"The projects draws on more than a century of curatorial data that documents the arboretum as a system of shared agency"
+                    }
+                ]
+            }
+        ],
+        "artworks":[
+            {
+                "id":1094,
+                "type":"artwork",
+                "title":"Tides of Memory Digital Echoes of Netizen Remembrance",
+                "desc":"The installation transforms online mourning into immersive monuments by drawing on Sina Weibo posts written after the deaths of seven Chinese authors since 2016 and translating fragmented emotions into three-dimensional commemorative forms through the integration of data collection, natural language processing, and 3D modeling. It presents monuments composed of two layers that create a dialogue between individual creativity and collective memory, with the lower half symbolizing an author’s lifetime creative legacy and the upper half reflecting public remembrance through netizens’ mourning words, hashtags, and emotional expressions. It situates these monuments along a “Path of Remembrance,” a solemn digital corridor that evokes the atmosphere of walking through a memorial, and it further encourages interaction by allowing viewers to explore high-frequency keywords, revisit original posts, and contribute personal tributes that expand the archive of grief. It transforms fleeting and fragmented online words into a shared cultural memory, materializes ephemeral emotions into tangible structures, bridges personal sorrow with collective resonance, and highlights the enduring bond between readers and writers by showing how netizens’ voices now commemorate those who once shaped language. The installation reimagines mourning rituals for the digital age and creates a poetic and participatory space where memory, text, and community converge.",
+                "web":"http://xhslink.com/o/ZTpPRcb8Ip",
+                "arxiv":"https://arxiv.org/abs/2509.16579",
+                "email":"lingyupeng6@163.com",
+                "caption":"The installation transforms online mourning into immersive monuments by drawing on Sina Weibo posts about seven Chinese authors since 2016 and turning fragmented emotions into 3D commemorative forms. Along a “Path of Remembrance,” two-layer monuments link each author’s creative legacy with collective memory, reflecting public mourning words and emotions. Visitors can explore keywords, revisit posts, and leave tributes, turning fleeting grief into shared cultural memory and reimagining mourning rituals for the digital age.",
+                "format":"interactive prototype",
+                "material":"",
+                "size":"",
+                "year":"2025",
+                "slug":"tides-of-memory-artwork",
+                "authors":[
+                    {
+                        "id":47,
+                        "name":"Lingyu Peng",
+                        "bio":"Lingyu Peng is a Master’s student at the Future Design School, Harbin Institute of Technology. His research focuses on AI-assisted design, artistic visualization, and interactive installation design. He is committed to exploring how artificial intelligence can be more naturally integrated into design processes and artistic experiences.",
+                        "web":"https://xhslink.com/m/1o61zmiHV3U",
+                        "image":"Lingyu-Peng.jpg"
+                    },
+                    {
+                        "id":48,
+                        "name":"Chang Ge",
+                        "bio":"Background in design with experience in transportation interaction design and user research. Current work focuses on user experience and system applications in future air mobility, exploring how design can support more intuitive and human-centered flight experiences.",
+                        "web":"",
+                        "image":"Chang-Ge.jpg"
+                    },
+                    {
+                        "id":49,
+                        "name":"Liying Long",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":50,
+                        "name":"Xin Li",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":51,
+                        "name":"Xiao Hu",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":52,
+                        "name":"Pengda Lu",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":53,
+                        "name":"Qingchuan Li",
+                        "bio":"Dr. Qingchuan Li is an Associate Professor at Harbin Institute of Technology, Shenzhen. Her research interests include human-computer interaction, ergonomics in design, usability and user experience, with a specific focus on gerotechnology interventions to prevent cognitive and physical impairments among the elderly. She has published several peer-reviewed journal papers, book chapters, and proceeding papers.",
+                        "web":"https://scholar.google.com/citations?user=Gx-ibOEAAAAJ&hl=zh-CN&oi=ao",
+                        "image":""
+                    },
+                    {
+                        "id":54,
+                        "name":"Jiangyue Wu",
+                        "bio":"Dr. Jiangyue Wu is an Assistant Professor at the Shenzhen International School of Design / Future Design School, Harbin Institute of Technology (Shenzhen). She earned her Ph.D. from The University of Hong Kong. Her research primarily focuses on data analysis and visualization, user behavior in XR environments, and activity analytics. She is dedicated to integrating insights from research, design, and practice to foster more sustainable ways of living for the future.",
+                        "web":"https://faculty.hitsz.edu.cn/wujiangyue",
+                        "image":"Jiangyue-Wu.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":61,
+                        "filename":"1049_i1.jpg",
+                        "caption":"Tides of Memory_monument_space_view"
+                    },
+                    {
+                        "id":62,
+                        "filename":"1049_i2.jpg",
+                        "caption":"Tides of Memory_tides_particle"
+                    },
+                    {
+                        "id":63,
+                        "filename":"1049_i3.jpg",
+                        "caption":"Tides of Memory_monument_particle_detail"
+                    },
+                    {
+                        "id":64,
+                        "filename":"1049_i4.jpg",
+                        "caption":"Tides of Memory_viewer_interaction_closeup"
+                    }
+                ]
+            },
+            {
+                "id":1115,
+                "type":"artwork",
+                "title":"The Damaged Leaf Herbarium and Dataset",
+                "desc":"The Damaged Leaf Herbarium and Dataset is comprised of over 10,000 Vermont leaves scarred by Lymantria dispar caterpillars during the devastating outbreaks of 2021 and 2022 in Colchester, Vermont. The outbreak left the artist's neighborhood trees defoliated in early spring, and for two seasons Karson collected their fallen leaves on walks ritualized by the pandemic. Sculpted by the caterpillars' eating patterns into enchanting forms—both creations and ruins, horrible and beautiful—the leaves symbolize disruptive consumption and fantastical flora, fauna, and funga interspecies entanglements with humans and technology. With a team of students over the past four years, Karson engaged in a collective care for the leaves that involved cleaning, pressing, preserving, and photography. Their work includes training algorithms to be caretakers of the leaves. By avoiding the dominant narrative that typically vilifies L. dispar as an invasive species in North America, this work reveals the fable of a phantom silk moth. The story begins when an entrepreneurial 19th-century entomologist, motivated by the wealth of the silk industry, attempted to innovate a new breed of silkworm—his experiment failed spectacularly.",
+                "web":"https://plantmachinedesign.studio",
+                "arxiv":"",
+                "email":"jennifer.karson@uvm.edu",
+                "caption":"The Damaged Leaf Herbarium and Dataset Tables I, II, III, IV. The Damaged Leaf Herbarium and Dataset is comprised of over 10,000 Vermont leaves scarred by Lymantria dispar caterpillars during the devastating outbreaks of 2021 and 2022 in Colchester, Vermont.",
+                "format":"Digital prints",
+                "material":"Ink on paper",
+                "size":"114.3 wide, 241.3 high",
+                "year":"2023",
+                "slug":"damaged-leaf",
+                "authors":[
+                    {
+                        "id":55,
+                        "name":"Jennifer Lyn Karson",
+                        "bio":"Jenn Karson uses scientific processes and technologies as creative catalysts. She earned a full fellowship to attend the San Francisco Art Institute, where she completed an MFA in Design + Technology. A senior lecturer at the University of Vermont, her current research uses studio-sourced datasets and speculative design frameworks to envision symbiotic relationships between plants and machines. In 2020, she founded the AI research project, Plant Machine Design. Karson exhibits internationally and has secured funding from the National Endowment for the Arts and the National Science Foundation.",
+                        "web":"https://jennkarson.studio",
+                        "image":"https://drive.google.com/open?id=1Mp2uHQb-7KSRPSiZjfAlxBGnGr0sqvIR"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":65,
+                        "filename":"1115_i1.jpg",
+                        "caption":"Damaged Leaf Dataset Tables I and II, 2023. Archival pigment print, 90″ x 40″ inches"
+                    },
+                    {
+                        "id":66,
+                        "filename":"1115_i2.jpg",
+                        "caption":"Damaged Leaf Dataset Tables I and II, 2023. Archival pigment print, 90″ x 40″ inches"
+                    },
+                    {
+                        "id":67,
+                        "filename":"1115_i3.jpg",
+                        "caption":"Damaged Leaf Dataset Tables III and IV, 2023. Archival pigment print, 90″ x 40″ inches"
+                    },
+                    {
+                        "id":68,
+                        "filename":"1115_i4.jpg",
+                        "caption":"Damaged Leaf Dataset Tables I (detail), 2023. Archival pigment print, 90″ x 40″ inches"
+                    },
+                    {
+                        "id":69,
+                        "filename":"1115_i5.jpg",
+                        "caption":"Jenn Karson, Cam Wodarz, Maya Griffith, Liv Welford, Healing Leaves App , 2025. Interactive digital application, dimensions variable."
+                    }
+                ]
+            },
+            {
+                "id":1106,
+                "type":"artwork",
+                "title":"The Knowledge Cosmos: An Immersive Platform for Interdisciplinary Research Discovery",
+                "desc":"As the volume of scientific literature continues to expand exponentially, traditional research tools struggle to keep pace—often reinforcing disciplinary silos and limiting opportunities for discovery. The Knowledge Cosmos re-imagines research exploration through an interactive, 3D visualization platform that treats science not as a static repository, but as a navigable universe. By spatializing 17 million academic papers based on semantic similarity, the platform enables users to explore the structure of knowledge intuitively, uncover interdisciplinary connections, and identify underexplored intellectual gaps. Drawing on the principles of play, immersion, and serendipity, The Knowledge Cosmos democratizes the bird’s eye view of research and encourages curiosity-driven inquiry across a wide range of users including students, educators, independent thinkers, and lifelong learners.",
+                "web":"",
+                "arxiv":"",
+                "email":"rifaa_tajani@mde.harvard.edu",
+                "caption":"As the volume of scientific literature continues to expand exponentially, traditional research tools struggle to keep pace—often reinforcing disciplinary silos and limiting opportunities for discovery. The Knowledge Cosmos reimagines research exploration through an interactive, 3D visualization platform that treats science not as a static repository, but as a navigable universe. By spatializing 17 million academic papers based on semantic similarity, the platform enables users to uncover interdisciplinary connections and identify underexplored intellectual gaps.",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"knowledge-cosmos-artwork",
+                "authors":[
+                    {
+                        "id":56,
+                        "name":"Alec McGail",
+                        "bio":"Alec McGail is a computational sociologist whose research combines network science, natural language processing, and social theory to explore how knowledge is produced, remembered, and forgotten. He earned his PhD from Cornell University, where he studied citation dynamics, collective memory, and intellectual lineage in the social sciences. He now is a full-time contractor for NASA, building tools for designing and running LLM-Human workflows, which scaffold and gamify processes for brainstorming future scenarios and technological innovation in Convergent Aeronautics Solutions.",
+                        "web":"",
+                        "image":"Alec-McGail.jpg"
+                    },
+                    {
+                        "id":57,
+                        "name":"Rifaa Tajani",
+                        "bio":"Rifaa Tajani is an artist, designer, and technologist whose work spans systems thinking, storytelling, and product design. She is currently a Master in Design Engineering (MDE) candidate at Harvard University and holds a B.A. in Design and B.B.A. Information Systems from The University of Texas at Austin. As an Innovation Designer at IBM, she works at the forefront of generative AI and emerging technologies to build tools that bridge user needs with technical possibility.",
+                        "web":"",
+                        "image":"Rifaa-Tajani.jpg"
+                    },
+                    {
+                        "id":58,
+                        "name":"Nikita Sridhar",
+                        "bio":"Nikita Sridhar is a UX designer and researcher based in New York City with a background in mechanical engineering and a master’s degree in User Experience and HCI from the University of Michigan. Her work spans interdisciplinary collaboration, immersive technologies, and sustainable design, with a focus on making complex systems accessible and engaging. At IBM Client Engineering, she leads human-centered design for enterprise AI solutions.",
+                        "web":"",
+                        "image":"Nikita-Sridhar.jpg"
+                    },
+                    {
+                        "id":59,
+                        "name":"Jiabao Li",
+                        "bio":"Jiabao Li creates works addressing climate change, interspecies co-creation, humane technology, and perceptions. Her mediums include wearable, robot, AR/VR, performance, scientific experiment, installation. Jiabao is the recipient of numerous awards, including Forbes China 30 Under 30, iF Design Award, Falling Walls, NEA, STARTS Prize, Fast Company, Core77, IDSA, A’ Design Award, Webby Award, Cannes World Film Festival Award, and Outstanding Instructor Award. Jiabao is a Tenure Track Assistant Professor at The University of Texas at Austin and graduated from Harvard GSD with Distinction.",
+                        "web":"",
+                        "image":"Jiabao-Li.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":70,
+                        "filename":"1124_i1.jpg",
+                        "caption":"The Knowledge Cosmos complete map of 17 million research papers."
+                    },
+                    {
+                        "id":71,
+                        "filename":"1124_i2.jpg",
+                        "caption":"The Knowledge Cosmos map layered with constellations of the Art and Environmental Science disciplines."
+                    },
+                    {
+                        "id":72,
+                        "filename":"1124_i3.jpg",
+                        "caption":"Biology papers of The Knowledge Cosmos colored by subdiscipline."
+                    },
+                    {
+                        "id":73,
+                        "filename":"1124_i4.jpg",
+                        "caption":""
+                    },
+                    {
+                        "id":74,
+                        "filename":"1124_i5.jpg",
+                        "caption":""
+                    }
+                ]
+            },
+            {
+                "id":1042,
+                "type":"artwork",
+                "title":"Simulacra Naturae Generative Forms from Agent-Based Ecosystems with Organoid Collective Intelligence",
+                "desc":"Simulacra Naturae is a collaborative media installation exploring the entanglement of digital morphogenesis and the interplay between biological and artificial intelligences. Brain organoids drive simulations of agent-based ecosystems such as flocks, slime molds, and termites. Their spontaneous neural activity modulates the behavior of these agents, influencing real-time generative visuals, spatial sound, sculptural forms, and living plants within the installation. By merging neural data, algorithmic growth, and material fabrication, Simulacra Naturae creates a hybrid ecosystem where cognition and agency emerge through co-evolving interactions between code, matter, and living systems. This mediated environment invites reflection on synthetic ecologies, distributed intelligence, and the blurred boundaries between simulation and sensation.",
+                "web":"https://nefeliman.com/simulacra-naturae",
+                "arxiv":"",
+                "email":"nefeli@ucsb.edu",
+                "caption":"This media installation transforms the neural activity of living brain organoids into dynamic simulations of flocks, slime molds, and termites. Their spontaneous signals shape generative visuals, spatial sound, sculptural forms, and living plants, creating a hybrid ecosystem where digital and biological intelligences intertwine. By merging code, matter, and life, Simulacra Naturae invites reflection on synthetic ecologies, emergent agency, and the shifting boundaries between simulation and sensation.",
+                "format":"multi-media installation, clay sculpture, generative visuals",
+                "material":"clay, plants, artificial moss, fiber optics, microcontrollers, electronic components",
+                "size":"",
+                "year":"2025",
+                "slug":"simulacra-naturae-artwork",
+                "authors":[
+                    {
+                        "id":60,
+                        "name":"Nefeli Manoudaki",
+                        "bio":"Nefeli Manoudaki is an architect-engineer and Ph.D. student in Media Arts and Technology at UC Santa Barbara. Her practice sits at the convergence of nature, sensory experience, and design, using new technologies to craft immersive environments and installations. She researches AI, immersive systems, and bio-inspired architectural forms in tangible and digital media (XR, AI/ML). Guided by morphological and cognitive principles, she creates experiences that reconnect audiences with the natural world. Her work has shown at Ars Electronica, ISEA, ACM SIGGRAPH, and more.",
+                        "web":"https://nefeliman.com/",
+                        "image":"Nefeli-Manoudaki.jpg"
+                    },
+                    {
+                        "id":61,
+                        "name":"Mert Toka",
+                        "bio":"Mert is a computer scientist, media artist, and HCI researcher focused on creativity-support tools, generative art and design, agent-based simulation, data visualization, and computational fabrication. He builds interactive audiovisual systems, investigates emergent patterns, and explores the interplay of digital and physical making. His work has been published in CHI, UIST, DIS, IEEE VIS, and VISAP. He holds a Ph.D. and an M.S. in Media Arts & Technology from UC Santa Barbara, where he was a Fulbright Scholar, as well as a B.S. in Computer Science and Engineering from Sabancı University.",
+                        "web":"https://www.merttoka.com/",
+                        "image":"Mert-Toka.jpg"
+                    },
+                    {
+                        "id":62,
+                        "name":"Iason Paterakis",
+                        "bio":"Iason N. Paterakis is a California-based architect-engineer and media artist, and a Ph.D. student in Media Arts & Technology at UC Santa Barbara’s transLAB (Prof. Marcos Novak). His work centers on biodata (e.g., brain organoid activity), AI-driven immersive environments, and large-venue projection mapping. He has presented at ACM SIGGRAPH, ISEA, and Ars Electronica, with projects across Asia, Europe, North America, and Antarctica. He also publishes in venues such as the International Astronautical Congress and IJAC.",
+                        "web":"https://www.iasonpaterakis.com/",
+                        "image":"Iason-Paterakis.jpg"
+                    },
+                    {
+                        "id":63,
+                        "name":"Diarmid Flatley",
+                        "bio":"Diarmid Flatley is a composer, media artist, and researcher. His work develops metacompositional approaches to artmaking that connect disparate modalities and media through generative processes. His interests include high-dimensional spaces, dynamical systems, emergent structures, crossmodal correspondences, and multisensory integration. He holds a Ph.D. in Media Arts & Technology (UC Santa Barbara), an M.M. in Theory & Composition (NYU), and a B.A. in Music (UC San Diego). His works have been exhibited at accredited venues including ISEA and ACM SIGGRAPH.",
+                        "web":"https://www.diarmidflatley.com/",
+                        "image":"Diarmid-Flatley.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":75,
+                        "filename":"1042_i1.jpg",
+                        "caption":"Simulacra Naturae: immersive installation with projected ecosystem, living plants, clay prints, fiber optics, solenoids, and hydroponics."
+                    },
+                    {
+                        "id":76,
+                        "filename":"1042_i2.jpg",
+                        "caption":"Artifact close-up: clay vessel with solenoid cables; projections show simulated ecologies driven by brain organoid signals."
+                    },
+                    {
+                        "id":77,
+                        "filename":"1042_i3.jpg",
+                        "caption":"Close-up of the virtual ecosystem: multi-layer agent fields where slime mold growth, termite foraging, and flocking behavior overlap and co-evolve."
+                    },
+                    {
+                        "id":78,
+                        "filename":"1042_i4.jpg",
+                        "caption":"Fiber optics and solenoids activated by organoid data, illuminated by LED arrays projecting neural rhythms into the space."
+                    },
+                    {
+                        "id":79,
+                        "filename":"1042_i5.jpg",
+                        "caption":"Hydroponic glass vessel: electronics and fiber optics interface with living plants, with simulated ecology visuals in the background"
+                    }
+                ]
+            },
+            {
+                "id":1088,
+                "type":"artwork",
+                "title":"The Secret Life of... Collective Plastic Microfibre Traces",
+                "desc":"Data are crucial for showcasing the effects of environmental crises and visualising potential future developments to drive change; however, data visualisations like infographics, pie charts, and histograms can be difficult for people to relate to and inspire change. The Secret Life of... is an interactive installation that transforms environmental data into acts of embodied engagement, reflective inquiry, and collective care. The installation helps visualise the invisible environmental impact of plastic microfibre emissions through methods that prioritise relational understanding, empathy, and participatory meaning-making. These methods allow us to relate data to everyday actions (e.g., how do you recognise plastic microfibre in your garments?) and objects (e.g., what is the composition of the garment you are currently wearing?) in accessible and meaningful ways. The installation was first shown at the Fashion for Future event at Free University of Bozen-Bolzano (Italy) in April 2024, and then at Circular Week Tyrol in Innsbruck (Austria) in September 2024. Following this year's conference theme on 'Collective Care', for this event, we proposed three intertwined experiences that invite participants to reflect on the invisible microplastics released from our garments: (1) a guided sensorial exploration, (2) a collective mapping of microfibres, and (3) an interactive drawing experience with projections. Participants are guided through these activities to observe and identify different fibre types, collect them from the surface of their garments, and visualize them collectively. Through these experiences, additional context is provided on the design process, scientific grounding, and aesthetic choices. This creates space for questions, dialogic encounters, and shared reflections on how data can be experienced as an act of both collective and individual care.",
+                "web":"www.alexandrafruhstorfer.com",
+                "arxiv":"",
+                "email":"roccol.modugno@gmail.com",
+                "caption":"The Secret Life of... is an interactive installation that transforms environmental data into embodied engagement, reflective inquiry, and collective care. It visualises the invisible impact of plastic microfibre emissions through accessible, participatory methods that connect data to everyday actions and objects. Through sensorial exploration, collective mapping, and collaborative drawing, the installation creates space for shared reflection on how data can be experienced as an act of collective and individual care.",
+                "format":"",
+                "material":"",
+                "size":"",
+                "year":"",
+                "slug":"secret-life",
+                "authors":[
+                    {
+                        "id":64,
+                        "name":"Alexandra Fruhstorfer",
+                        "bio":"Alexandra Fruhstorfer is a transdisciplinary designer and artistic researcher based in Vienna. In her work she questions prevalent political and cultural paradigms in the context of accelerated technological and ecological change. Blending design research with speculative approaches, co-creative formats and performative practices Alexandra creates artefacts and experiences to open space for critical reflection and collaborative action. Using design as a strategic, yet playful tool she aims to enable more equitable imaginaries for our material culture in times of planetary crisis.",
+                        "web":"https://www.alexandrafruhstorfer.com/about/",
+                        "image":"Alexandra-Fruhstorfer.jpg"
+                    },
+                    {
+                        "id":65,
+                        "name":"Seçil Uğur Yavuz",
+                        "bio":"",
+                        "web":"https://intra.projects.unibz.it/",
+                        "image":""
+                    },
+                    {
+                        "id":66,
+                        "name":"Maria Menendez Blanco",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":67,
+                        "name":"Rocco Lorenzo Modugno",
+                        "bio":"",
+                        "web":"https://rlmodugno.com/",
+                        "image":""
+                    }
+                ],
+                "images":[
+                    {
+                        "id":80,
+                        "filename":"1088_i1.jpg",
+                        "caption":"Exploration of the Collective Mapping of Microfibres with magnifying lenses."
+                    },
+                    {
+                        "id":81,
+                        "filename":"1088_i2.jpg",
+                        "caption":"Spread of the microfibre catalogue exposed."
+                    },
+                    {
+                        "id":82,
+                        "filename":"1088_i3.jpg",
+                        "caption":"Enlargement of a microfibre sample."
+                    },
+                    {
+                        "id":83,
+                        "filename":"1088_i4.jpg",
+                        "caption":""
+                    },
+                    {
+                        "id":84,
+                        "filename":"1088_i5.jpg",
+                        "caption":""
+                    }
+                ]
+            },
+            {
+                "id":1024,
+                "type":"artwork",
+                "title":"Empathic Growth",
+                "desc":"Empathic Growth is an interspecies interactive installation exploring plant perception through Jakob von Uexküll's 'Umwelt' concept. It visualizes human Galvanic Skin Response (GSR) data and plant biosignals in a shared environment, creating cross-species empathy. Inspired by Ursula K. Le Guin's Changing Planes: one plane features humans with plant DNA; another shares dreams telepathically. Using supervised learning, the work transforms human-plant signals into sentient hybrid forms—agent-based artificial life live in virtual space, exploring collective consciousness.",
+                "web":"wuziwei.me",
+                "arxiv":"",
+                "email":"zwubu@connect.ust.hk",
+                "caption":"Name: Empathic Growth Year: 2024-2025 Artists: Ziwei Wu, Danlu Fei, Meng Yang, Jiaqi Shi",
+                "format":"interactive prototype",
+                "material":"Materials: Screens, Sensors, GSR Data, GSR Affective Computing Model, Machine Learning on Plants Perception Estimation",
+                "size":"Various dimensions",
+                "year":"2024-2025",
+                "slug":"empathic-growth",
+                "authors":[
+                    {
+                        "id":68,
+                        "name":"Zi-Wei Wu",
+                        "bio":"Zi-Wei Wu (b. 1996, Shenzhen) is a media artist and researcher. She earned a BFA from China Academy of Art and an MFA in Computational Arts from Goldsmiths. She holds a PhD in Computational Media and Arts from HKUST. Her interdisciplinary work and research focus on Artificial Life Art, exploring biology as concept, data, and medium, and its societal impact. She is a Lumen and Batsford Prize winner, Longlisted for the Information is Beautiful Award, and her work has been published in SIGGRAPH, ISEA, and the Artificial Life Journal. Exhibitions include Ars Electronica, CYFEST,",
+                        "web":"wuziwei.me",
+                        "image":"Zi-Wei-Wu.jpg"
+                    },
+                    {
+                        "id":69,
+                        "name":"Dan-Lu Fei",
+                        "bio":"Danlu Fei is a game developer and researcher (b. 1999, China). She holds a CS - Computer Game degree from McGill University and was a gameplay programmer intern at Ubisoft, Behaviour Interactive, and Netease. She is currently a PhD candidate in Computational Media and Arts at HKUST. Her research explores AI applications in games, including AI-driven game agents and procedural content generation. She also develops AI games themed on artificial life, education, and cultural heritage. Her work has been published at CHI Play and ISEA, and exhibited at venues such as Ars Electronica and ACMI.",
+                        "web":"",
+                        "image":"Dan-Lu-Fei.jpg"
+                    },
+                    {
+                        "id":70,
+                        "name":"Meng Yang",
+                        "bio":"Meng is a musician and researcher with a background in mathematics and data science with industry experience as a data analyst. She is currently undertaking her PhD under the supervision of Dr. Maria Teresa Llano and Prof. Jon McCormack. Her research interests are in creative applications of AI to music. Her work is investigating new kinds of creative AI musical systems, ones that support deep collaboration between musician and AI. Her current work is looking at musical analysis and emotional recognition for realtime music composition and improvisation. ",
+                        "web":"",
+                        "image":"Meng-Yang.jpg"
+                    },
+                    {
+                        "id":71,
+                        "name":"Jia-Qi Shi",
+                        "bio":"Jaki Shi is a visual designer and new media artist, with a master’s from the Royal College of Art. She is currently pursuing a Ph.D. at HKSUT (GZ). Her practice and research focus on digital heritage, scripts, and interactive experience. Her artworks have been showcased at Ars Electronica, Siggraph Asia, ISEA, IJCAI, the European Science Festival, etc. Combining poetic expression with research-driven methodologies, Jaki focuses on the translatability and resonance of symbols, language, and scripts within cross-cultural contexts.",
+                        "web":"",
+                        "image":"Jia-Qi-Shi.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":85,
+                        "filename":"1024_i1.jpg",
+                        "caption":"Empathic Growth exhibition view"
+                    },
+                    {
+                        "id":86,
+                        "filename":"1024_i2.jpg",
+                        "caption":"Empathic Growth "
+                    },
+                    {
+                        "id":87,
+                        "filename":"1024_i3.jpg",
+                        "caption":"Interactive description of Empathic Growth"
+                    },
+                    {
+                        "id":88,
+                        "filename":"1024_i4.jpg",
+                        "caption":"Different valence and arousal in Empathic Growth"
+                    }
+                ]
+            },
+            {
+                "id":1074,
+                "type":"artwork",
+                "title":"A Walled City",
+                "desc":"A Walled City is an interactive AI installation that transforms personal and collective visual memories into a decentralized, evolving virtual city. Grounded in the spatial logic, zoning, and aesthetics of the historical Kowloon Walled City (Hongkong), a self-built hyper-dense enclave that grew in a legal and political void from the 1950s to 1993, the work builds a multi-agent AI system to turn participant-uploaded images into architectural chambers, forming a living structure where data, memory, and historical urban logic converge. The project is not nostalgic; rather, it reflects on density, proximity, and how private fragments can be reassembled into shared space. Each contribution remains visible as itself, yet becomes part of a larger organism that accumulates, shifts, and evolves over time. In A Walled City, memory becomes architecture, identity is spatialized, and communities emerge through a rhizomatic network. The work connects AI systems with historical urban memory, turning contributions into forms and forms into relations, while raising the question of what is protected by “walls” and what is kept apart in the worldbuilding of future settlement.",
+                "web":"https://www.zhangweidi.com/awalledcity",
+                "arxiv":"",
+                "email":"weidizhang@asu.edu",
+                "caption":"A Walled City is an interactive AI installation that transforms personal and collective visual memories into a decentralized, evolving virtual city. Grounded in the spatial logic, zoning, and aesthetics of the historical Kowloon Walled City (Hongkong), a self-built hyper-dense enclave that grew in a legal and political void from the 1950s to 1993, the work builds a multi-agent AI system to turn participant-uploaded images into architectural chambers, forming a living structure where data, memory, and historical urban logic converge.",
+                "format":"Interactive AI Art Installation",
+                "material":"Screen-based Interaction ( A LED Screen, A PC, and A display with a QR code)",
+                "size":"flexible",
+                "year":"2025",
+                "slug":"walled-city",
+                "authors":[
+                    {
+                        "id":72,
+                        "name":"Weidi Zhang",
+                        "bio":"Weidi Zhang is a new media artist and Assistant Professor of Immersive Experience Design at Arizona State University’s MIX Center. Her interdisciplinary research explores speculative assemblages at the intersection of immersive media, data visualization, and interactive AI art. Zhang’s work has received international recognition and awards from ACM SIGGRAPH, Red Dot, Prix Ars Electronica, Muse Design Award, A’ Design Award, Asia Pacific Design, and the Lumen Prize. ",
+                        "web":"www.zhangweidi.com",
+                        "image":"Weidi-Zhang.jpg"
+                    },
+                    {
+                        "id":73,
+                        "name":"Rodger Luo",
+                        "bio":"Dr. Jieliang (Rodger) Luo is the CEO and Chief Scientist at Minus AI, a Singapore-based, research-driven startup focused on leveraging AI technology to empower the creative industry. The company develops AI tools to enhance creative processes and complete work more effectively. He holds a Ph.D. in Media Arts and Technology from the University of California, Santa Barbara, and has previously served as a Senior Principal Research Scientist at the Autodesk AI Lab in San Francisco.",
+                        "web":"https://www.linkedin.com/in/rodger-luo/",
+                        "image":"Rodger-Luo.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":89,
+                        "filename":"1074_i1.jpg",
+                        "caption":"credit to Weidi Zhang and Rodger Luo"
+                    },
+                    {
+                        "id":90,
+                        "filename":"1074_i2.jpg",
+                        "caption":"credit to Weidi Zhang and Rodger Luo"
+                    },
+                    {
+                        "id":91,
+                        "filename":"1074_i3.jpg",
+                        "caption":"credit to Weidi Zhang and Rodger Luo"
+                    }
+                ]
+            },
+            {
+                "id":1073,
+                "type":"artwork",
+                "title":"You Only Have Seven Seconds",
+                "desc":"You Only Have Seven Seconds is a cinematic artistic visualization derived from an interactive AI art installation (ReCollection) that explores how machine intelligence can reassemble collective human memory through language input. Motivated by the artist’s personal response to her grandmother’s cognitive decline and informed by current research in Critical Dementia Studies that advocates for reimagining—rather than repairing—memory, the project collects and curates whispered, seven-second recollections and machine-generated image data from installation participants. These selected datasets are transformed into a generative visualization presented as a cinematic art using custom-designed AI systems and experimental visualization strategies. ",
+                "web":"",
+                "arxiv":"",
+                "email":"weidizhang@asu.edu",
+                "caption":"",
+                "format":"An LED screen to play the video",
+                "material":"",
+                "size":"flexible",
+                "year":"2025",
+                "slug":"seven-seconds-artwork",
+                "authors":[
+                    {
+                        "id":74,
+                        "name":"Weidi Zhang",
+                        "bio":"Weidi Zhang is a new media artist and Assistant Professor of Immersive Experience Design at Arizona State University’s MIX Center. Her interdisciplinary research explores speculative assemblages at the intersection of immersive media, data visualization, and interactive AI art. Zhang’s work has received international recognition and awards from ACM SIGGRAPH, Red Dot, Prix Ars Electronica, Muse Design Award, A’ Design Award, Asia Pacific Design, and the Lumen Prize. ",
+                        "web":"www.zhangweidi.com",
+                        "image":"Weidi-Zhang.jpg"
+                    },
+                    {
+                        "id":75,
+                        "name":"Rodger Luo",
+                        "bio":"Dr. Jieliang (Rodger) Luo is the CEO and Chief Scientist at Minus AI, a Singapore-based, research-driven startup focused on leveraging AI technology to empower the creative industry. The company develops AI tools to enhance creative processes and complete work more effectively. He holds a Ph.D. in Media Arts and Technology from the University of California, Santa Barbara, and has previously served as a Senior Principal Research Scientist at the Autodesk AI Lab in San Francisco.",
+                        "web":"https://www.linkedin.com/in/rodger-luo/",
+                        "image":"Rodger-Luo.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":92,
+                        "filename":"1073_i1.jpg",
+                        "caption":"credit to Weidi Zhang and Rodger Luo"
+                    },
+                    {
+                        "id":93,
+                        "filename":"1073_i2.jpg",
+                        "caption":"credit to Weidi Zhang and Rodger Luo"
+                    },
+                    {
+                        "id":94,
+                        "filename":"1073_i3.jpg",
+                        "caption":"credit to Weidi Zhang and Rodger Luo"
+                    }
+                ]
+            },
+            {
+                "id":1123,
+                "type":"artwork",
+                "title":"Polyurethane, cellulose, polyoses, lignin, polylactic acid, calcium, titanium, magnesium, zinc, aluminum, titanium dioxide, magnesium silicate, zinc oxide, propane, butane, ketone, polymethyl methacrylate (PMMA), carbonates, chromates, vanadates, silicates, aluminum sulfosilicates, sodium, sulfates, sulfides, selenides, sulfoselenides, iron, carbon, chromium, nickel, manganese, silicon, molybdenum, tungsten, vanadium, boron, epoxy phenol novolac, cycloaliphatic diamine, isophorone diamine, hemicellulose, urea-formaldehyde.",
+                "desc":"The audiovisual project explores toxic entanglements in digital fabrication through a situated data-aesthetic of care. Drawing from feminist technoscience and post-anthropocentric design, it investigates synthetic residues as part of an invisible ecology of exposure, one that extends from the laboratory bench to planetary metabolism. Six micro-residue samples were collected at a university FabLab in São Paulo, Brazil, and scanned with a Vega LMU Scanning Electron Microscope (SEM). The materials included RenShape, PLA coated with automotive spray paint, PMMA, carbon fiber bound with epoxy resin, and MDF. The resulting electron textures were paired with sonified image data and multilingual vocal recitations of their chemical components, generating an affective archive of matter and sound. The title of the work acts as a performed material archive—a litany of estimated substances present in the samples. Recited rhythmically by the authors and interwoven with the sonified micrographs, the list becomes a chemical incantation, an audible atmosphere, a choral mapping of invisible exposure. Its durational naming—stretching breath across syllables of synthetic and organic compounds—renders explicit what is often hidden in Safety Data Sheets or relegated to the footnotes of fabrication manuals. This gesture introduces chemopoetics as both a methodological stance and a speculative aesthetic for engaging with residues of contemporary fabrication. Drawing on the etymological tension between chemo- (chemical processes, often molecular and invisible) and poiesis (from the Greek ποίησις, “to make, to bring forth”), and resisting the positivist clarity of conventional data representation, chemopoetics proposes an affective, polyphonic aesthetic—where noise, repetition, and broken intelligibility are mobilized to hear what remains just outside normative perception.",
+                "web":"https://www.clarissaribeiro.com/artworks/polyurethane-urea-formaldehyde",
+                "arxiv":"",
+                "email":"clarissa.ribeiro@usp.br",
+                "caption":"The audiovisual project explores toxic entanglements in digital fabrication through a situated data-aesthetic of care. Drawing from feminist technoscience and post-anthropocentric design, it examines synthetic residues as part of an invisible ecology of exposure. Six micro-residue samples were collected at FabLab Mauá and scanned using a Vega LMU SEM. Materials included RenShape, PLA with automotive spray paint, PMMA, carbon fiber with epoxy resin, and MDF. The resulting textures were paired with sonified image data and multilingual vocal recitations of chemical components. ",
+                "format":"Single-channel audiovisual work with a total duration of 6 minutes and 24 seconds, presented as a looping Full HD video (1920×1080, H.264 codec, .mp4 format) with synchronized audio.",
+                "material":"Single-channel audiovisual work with a total duration of 6 minutes and 24 seconds, presented as a looping Full HD video (1920×1080, H.264 codec, .mp4 format) with synchronized audio.",
+                "size":"",
+                "year":"2025",
+                "slug":"polyurethane",
+                "authors":[
+                    {
+                        "id":76,
+                        "name":"Clarissa Ribeiro",
+                        "bio":"Dr. Clarissa Ribeiro is an Assistant Professor in the Fine Arts Department at the University of São Paulo and former Director of the Roy Ascott Studio’s Technoetic Arts program in Shanghai. She holds a Ph.D. in Arts (ECA USP/Planetary Collegium, UK) and was a Fulbright Postdoctoral Fellow at UCLA’s Art|Sci Center. Her work explores intersections of art, science, and technology, focusing on information visualization, metaphysics, and cross-scale dynamics. She contributes to ISEA, SIGGRAPH, and related forums.",
+                        "web":"https://www.clarissaribeiro.com/home",
+                        "image":"Clarissa-Ribeiro.jpg"
+                    },
+                    {
+                        "id":77,
+                        "name":"Felipe Borges",
+                        "bio":"Felipe is a multimedia audiovisual artist and researcher. He holds a degree in Cinema and Audiovisual from UFRB, where he began his trajectory in documentary before expanding his practice to experimental cinema, video art, and curatorship. He earned a Master’s degree in Audiovisual Media and Processes at USP, researching politics in Brazilian horror short films. Currently, as a doctoral candidate at USP, he investigates the relationship between videogames and war, conceived as an almost indiscernibility between aesthetic and political experience.",
+                        "web":"https://www.instagram.com/felipedsb1?igsh=MTJvMHNnMXI1bDFnZg==",
+                        "image":"Felipe-Borges.jpg"
+                    },
+                    {
+                        "id":78,
+                        "name":"Dimitri Lomonaco",
+                        "bio":"Dimitri Lomonaco is an artist-researcher focused on interactive digital technologies and expanded audiovisuals. Integrating design, scenography, and lighting, he develops art–technology projects that foster immersive and sensorial experiences. He is currently a Master’s student in Visual Arts at ECA-USP and a member of the research groups Realidades (ECA/USP) and GIIP (UNESP).",
+                        "web":"https://dimitrilomonaco.art/",
+                        "image":"Dimitri-Lomonaco.jpg"
+                    },
+                    {
+                        "id":79,
+                        "name":"Silvia Laurentiz",
+                        "bio":"Silvia Laurentiz is an Associate Professor in the Department of Visual Arts and the Graduate Program in Visual Arts at the School of Communications and Arts of the University of São Paulo. She holds a PhD in Communication and Semiotics and a Habilitation in Arts. She is the coordinator of the research group “Realities – from tangible to ontological realities” (www.eca.usp.br/realidades). A multimedia artist, her work encompasses virtual and augmented reality and interactive environments. Her current research focuses on the intersections of art, algorithmic logic, and Artificial Intelligence.",
+                        "web":"www.eca.usp.br/realidades",
+                        "image":"Silvia-Laurentiz.jpg"
+                    },
+                    {
+                        "id":80,
+                        "name":"Luisa Paraguai",
+                        "bio":"Luisa Paraguai is a Professor in the Postgraduate Program in Architecture and Urbanism at the Pontifical Catholic University of Campinas. As a researcher and artist, she investigates contemporary languages ​​and technologies as modes of perceiving space and constructing narratives. She holds a master's and a PhD in Multimedia (Institute of Arts) at the State University of Campinas (Unicamp), and postdoctoral studies at the Planetary Collegium, Nuova Accademia di Belle Arti NABA, Milan, and the Postgraduate Program in Cultural Performances, Federal University of Goiás, Brazil.",
+                        "web":"https://www.luisaparaguai.art.br/",
+                        "image":"Luisa-Paraguai.jpg"
+                    },
+                    {
+                        "id":81,
+                        "name":"Helena Acuaviva",
+                        "bio":"Helena Acuaviva holds degrees in Fine Arts (US), Art (US), and Design (UDIMA), and is a PhD student in Art and Heritage with an international co-supervision between US and UNESP (Brazil). She works as Predoctoral Research Staff in Training (PIF) at US, teaching in the Department of Drawing and contributing to R+D+i projects linking art, science, and technology. She has held research stays in Brazil (UNESP, Mauá) and exhibited at Ars Electronica (2023, 2024). She is a member of HUM822 (US), GIIP (UNESP), and ACTS Network.",
+                        "web":"https://www.instagram.com/h.acuaviva?igsh=MWxwODdjZGhjODRlNA==",
+                        "image":"Helena-Acuaviva.jpg"
+                    },
+                    {
+                        "id":82,
+                        "name":"Sergio Venancio",
+                        "bio":"Sergio Venancio is a Brazilian artist, programmer, researcher, and professor whose work explores intersections between art, artificial intelligence, and human behavior. He is currently a PhD candidate in Fine Arts at the University of São Paulo. He teaches Digital Design at the State University of Campinas and Parametric Architecture at Belas Artes SP. He is also a member of the Realidades research group (USP) and the COM.6 art collective.",
+                        "web":"https://sergiovenancio.art/",
+                        "image":"Sergio-Venancio.jpg"
+                    },
+                    {
+                        "id":83,
+                        "name":"Blake Carrington",
+                        "bio":"Blake Marques Carrington works across sound, visual, and performing arts, guided by a conceptual inquiry of “speculative forensics.” Awarded a 2025 Fulbright U.S. Scholar Award to explore transdisciplinary practices in art and technology at the University of São Paulo, his work spans audiovisual installations, performances, albums, and paintings. He has exhibited widely, released six solo albums, collaborated with Patti Smith and Soundwalk Collective, and directs the Art+Technology program at Pratt Institute in Brooklyn.",
+                        "web":"https://www.pratt.edu/people/blake-carrington/",
+                        "image":"Blake-Carrington.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":95,
+                        "filename":"1123_i1.jpg",
+                        "caption":"Carbon FIber sample scanning using TESCAN Vega LMU SEM 1000x"
+                    },
+                    {
+                        "id":96,
+                        "filename":"1123_i2.jpg",
+                        "caption":"PLA sample scanning using TESCAN Vega LMU SEM 1000x"
+                    },
+                    {
+                        "id":97,
+                        "filename":"1123_i3.jpg",
+                        "caption":"sampling at the FabLab Mauá"
+                    },
+                    {
+                        "id":98,
+                        "filename":"1123_i4.jpg",
+                        "caption":"preparing samples for scanning using TESCAN Vega LMU SEM "
+                    }
+                ]
+            },
+            {
+                "id":1112,
+                "type":"artwork",
+                "title":"Distance Unknown: Risks and Opportunities of Migration in the Americas",
+                "desc":"Distance Unknown presents a tapestry woven from paper currency as a physical data visualization of the financial sacrifices Central American migrants make to journey to the United States. Based on data collected with the United Nations World Food Programme and the Migration Policy Institute, the project documents that in a single year (2020–2021), migrants from El Salvador, Guatemala, and Honduras collectively spent $2.2 billion to migrate—resources that benefited both the U.S. and sending countries, while migrants themselves assumed all of the risk. Each square of the textile represents one migrant, with the colors of the woven bills encoding their primary reason for leaving: economic opportunity (blue), quality of life (yellow), family reunification (orange), security (purple), and climate change (green). The work was co-produced with Casa Tochan, a Mexico City–based nonprofit, and crafted with the participation of thirteen Latin American migrants. The project demonstrates how art can help foster dialogue on urgent social issues by translating complex data into tangible and aesthetic form. The research underpinning Distance Unknown has shaped international policy conversations: findings were presented to U.S. Congress through an interactive data visualization, cited in a letter signed by thirty-three U.S. senators, and contributed to the Biden Administration’s Call to Action for Northern Central America. Within the exhibition, the tapestry is paired with an interactive tool that allows visitors to explore the story of one migrant by scanning a piece of currency on a touch-sensitive reader. This link between individual testimony and collective data underscores the project’s goal: to make the human costs of migration visible, to restore agency and dignity to those most affected, and to use art as a catalyst for civic debate and policy change.",
+                "web":"https://distanceunknown.migration.mit.edu/",
+                "arxiv":"",
+                "email":"alouie@mit.edu",
+                "caption":"Distance Unknown presents a tapestry woven from paper currency, transforming real migration data into physical form. Based on surveys of 5,000 migrants in El Salvador, Guatemala, and Honduras, the work encodes the $2.2 billion they collectively spent in 2020–2021 to reach the United States. Each square represents one migrant, with the colors of the bills marking reasons for leaving—blue for economic opportunity, yellow for quality of life, orange for family reunification, purple for security, and green for climate change.",
+                "format":"tapestry woven from paper currency, interactive website",
+                "material":"paper, string",
+                "size":"approx. 450cm W x 240cm H",
+                "year":"2022",
+                "slug":"distance-unknown",
+                "authors":[
+                    {
+                        "id":84,
+                        "name":"Sarah Williams",
+                        "bio":"Sarah Williams, an Associate Professor of Technology and Urban Planning at the Massachusetts Institute of Technology (MIT), is the Director of the Civic Data Design Lab and the Leventhal Center for Advanced Urbanism. Williams combines her training in computation and design to create communication strategies that expose urban policy issues to broad audiences and foster civic change. Her design work has been widely exhibited, including work in the Guggenheim, the Museum of Modern Art (MoMA), Venice Biennale and the Cooper Hewitt Museum.",
+                        "web":"https://civicdatadesignlab.mit.edu/",
+                        "image":"Sarah-Williams.jpg"
+                    },
+                    {
+                        "id":85,
+                        "name":"Ashley Louie",
+                        "bio":"Ashley is a Research Associate at the Norman B. Leventhal Center for Advanced Urbanism and the Civic Data Design Lab, who works at the intersection of public interest technology, data visualization, and communication design. With a passion for improving cities, engaging people, and serving communities, Ashley has led research projects that center data-driven narratives for cultural, environmental, social advocacy, including migration studies with the World Food Programme and documenting Beirut craftsmanship through the Living Heritage Atlas.",
+                        "web":"",
+                        "image":"Ashley-Louie.jpg"
+                    },
+                    {
+                        "id":86,
+                        "name":"Alberto Meouchi",
+                        "bio":"Alberto holds an architecture degree from Instituto Tecnologico y de Estudios Superiores de Monterrey and a Master of Science in Architecture Studies in Urbanism, with an Urban Design Certificate, from the Massachusetts Institute of Technology. His recent research work resides in the intersection of alternative land tenure systems, data-land use processes and urban morphology. His work has been exhibited in several national and international venues such as the Venice Biennale, in 2016; the ETSAM, in 2019, and the UNAM, in 2019.",
+                        "web":"",
+                        "image":"Alberto-Meouchi.jpg"
+                    },
+                    {
+                        "id":87,
+                        "name":"Niko McGlashan",
+                        "bio":"Niko McGlashan holds a Master of Architecture degree from the University of Toronto where he graduated with Honors. His undergraduate education was in Environment and Urban Sustainability and Geographic Analysis. He has also conducted extensive research through design and build projects at both the Center for Landscape Research at the University of Toronto and as a Research Associate at the MIT Civic Data Design Lab.",
+                        "web":"",
+                        "image":"Niko-McGlashan.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":99,
+                        "filename":"1112_i1.jpg",
+                        "caption":"The motivational tapestry, a physical data visualization of migrant money, represents the root causes of migration and cost burden of their journey."
+                    },
+                    {
+                        "id":100,
+                        "filename":"1112_i2.jpg",
+                        "caption":"Sarah Williams speaking with Executive Director of the World Food Programme in 2021 (David Beasely) and the Panama ambassador to the United States."
+                    },
+                    {
+                        "id":101,
+                        "filename":"1112_i3.jpg",
+                        "caption":"Each individual bill highlights a different issue concerning migrants: high cost of migration, importance of remittances, and the risks they face."
+                    },
+                    {
+                        "id":102,
+                        "filename":"1112_i4.jpg",
+                        "caption":"Migrants work on folding bills into modules, which will then be woven into zigzag strips and sewn together to comprise the tapestry."
+                    },
+                    {
+                        "id":103,
+                        "filename":"1112_i5.jpg",
+                        "caption":"The bills were folded into squares representing one migrant from El Salvador, Guatemala or Honduras, with data from the WFP survey."
+                    },
+                    {
+                        "id":104,
+                        "filename":"1112_i6.jpg",
+                        "caption":"A visitor scans a piece of the tapestry to explore that migrant’s story, motivations for migrating, and cost burden on the interactive touch screen."
+                    },
+                    {
+                        "id":105,
+                        "filename":"1112_i7.jpg",
+                        "caption":"Visitors are encouraged to explore individual stories within the data and dive deeper into one migrant’s cost and motivations for migrating."
+                    }
+                ]
+            },
+            {
+                "id":1138,
+                "type":"artwork",
+                "title":"FeltSight",
+                "desc":"FeltSight is a mixed reality sensory-substitution experience that reimagines human perception through an alternative tactile umwelt, inspired by the star-nosed mole's unique tactile navigation. Users engage in meditative wandering guided by extended-range sensing with haptic feedback and subtle visual cues. The system features a pair of wearable haptic gloves with high-precision vibrotactile actuators on each finger, driven by audio-responsive patterns. These actuators re-sensitize the sense of touch and simulate material textures, enabling users to 'feel' environmental surfaces as if their fingertips can tele-touch surrounding objects at a distance. The mixed reality headset provides a deliberately subtle 'reduced reality', showing nearby objects as dynamic point clouds that serve as a 'short-term perceptual memory', visualizing touched textures on surrounding surfaces. By shifting focus from visual to tactile perception, FeltSight challenges occularcentric sensory hierarchies and elevates touch as a way to perceive the world. This approach invites users to experience the umgebung---the world that exists but typically goes unperceived---through substituted perception, exemplifying tentacular thinking for more-than-human awareness.",
+                "web":"https://danlinhuang.com/feltsight-1",
+                "arxiv":"",
+                "email":"danlinhuang0428@gmail.com",
+                "caption":"FeltSight is a mixed reality sensory-substitution experience inspired by the star-nosed mole's unique tactile navigation. It features haptic gloves that enable users to 'feel' environmental surfaces at a distance, paired with a headset that provides deliberately reduced reality.. By shifting focus from visual to tactile perception, FeltSight challenges ocularcentric sensory hierarchies and elevates touch as a way to perceive the world. This approach invites users to experience the 'umgebung' through tentacular thinking for more-than-human awareness.",
+                "format":"interactive prototype",
+                "material":"Apple Vision Pro, Silicon, TPU, Teensy 4.1, ESP32C3, AFT Series 14A903A",
+                "size":"",
+                "year":"2025",
+                "slug":"feltsight",
+                "authors":[
+                    {
+                        "id":88,
+                        "name":"Danlin Huang",
+                        "bio":"Danlin Huang is an artist, designer, and interactive inventor. Currently studying in China Academy of Art. Her academic papers have been published in top conferences such as SIGGRAPH, SIGGRAPH Asia, CHI, TEI and so on. Her art works have been featured in the Ars Electronica, ISEA, CVPR Art Gallery, ISWC, China National Art Exhibition, among others.",
+                        "web":"danlinhuang.com",
+                        "image":""
+                    },
+                    {
+                        "id":89,
+                        "name":"Botao Amber Hu",
+                        "bio":"Botao 'Amber' Hu is a social computing researcher and experiential futures designer. He is an incoming DPhil student in Computer Science at the University of Oxford. As a researcher, his interest lies in Decentralized AI (DeAI) Governance, Protocol Science, and Artificial Life. As a designer, he creates experiential futures using social mixed reality as his primary medium. He also directs Reality Design Lab. His work has been featured at leading conferences including SIGGRAPH, CHI, UbiComp, WWW, TEI, ISEA, ALIFE, and Ars Electronica. ity.",
+                        "web":"reality.design",
+                        "image":""
+                    },
+                    {
+                        "id":90,
+                        "name":"Dong Zhang",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":91,
+                        "name":"Yifei Liu",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":92,
+                        "name":"Takatoshi Yoshida",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    },
+                    {
+                        "id":93,
+                        "name":"Rem Rungu Lin",
+                        "bio":"",
+                        "web":"",
+                        "image":""
+                    }
+                ],
+                "images":[
+                    {
+                        "id":106,
+                        "filename":"1138_i1.jpg",
+                        "caption":"'FeltSight' sensitizes the environment like a star-nosed mole."
+                    },
+                    {
+                        "id":107,
+                        "filename":"1138_i2.jpg",
+                        "caption":"Sensitizing the surroundings with FeltSight in the forest."
+                    },
+                    {
+                        "id":108,
+                        "filename":"1138_i3.jpg",
+                        "caption":"Overview of FeltSight system"
+                    },
+                    {
+                        "id":109,
+                        "filename":"1138_i4.jpg",
+                        "caption":"Pipeline for texture-dependent haptic feedback: (a) sound acquisition and (b) playback with haptic rendering"
+                    },
+                    {
+                        "id":110,
+                        "filename":"1138_i5.jpg",
+                        "caption":"Visual effect in mixed-reality environment"
+                    },
+                    {
+                        "id":111,
+                        "filename":"1138_i6.jpg",
+                        "caption":"Glove industrial design"
+                    },
+                    {
+                        "id":112,
+                        "filename":"1138_i7.jpg",
+                        "caption":"The visible range adjusts based on the angle between the user’s palms"
+                    },
+                    {
+                        "id":113,
+                        "filename":"1138_i8.jpg",
+                        "caption":"Audio adjusted dynamically based on fingers movements"
+                    },
+                    {
+                        "id":114,
+                        "filename":"1138_i9.jpg",
+                        "caption":"Participants often walk with their backs bent, relying on information from the ground"
+                    },
+                    {
+                        "id":115,
+                        "filename":"1138_i10.jpg",
+                        "caption":"The glove design mimics the star-nosed mole’s tactile nostril organs—a distinctive formation of 22 tentacles arranged in a star shape."
+                    }
+                ]
+            },
+            {
+                "id":1016,
+                "type":"artwork",
+                "title":"Romance Series: Unrequited United",
+                "desc":"Unrequited United explores Amazon Kindle Popular Highlights in romance novels. A passage in a Kindle e-book becomes a Popular Highlight after a certain number of people independently highlight the same passage. Popular Highlights show up as underlined text along with the number of people who highlighted that passage. I expected that romance readers might highlight the smutty parts, but, surprisingly, they are predominantly highlighting passages about grief, loneliness, and trauma. These often heartbreaking passages are not the sort of thing that people would broadcast on social media. They aren’t something people are bookmarking to return to later or posting on Goodreads. The anonymity of Popular Highlights allows people to show vulnerability and empathy with feelings they might be reluctant to reveal on other social media platforms. Since 2010, I have collected thousands of Kindle Popular Highlights from romance novels into a database. Over one hundred thousand individual acts of highlighting were used to determine the content for these artworks telling the story of the intense loneliness, grief, vulnerability, and discontent felt by the readers. This work reveals a glimpse of a positive, anonymous social network emerging unintentionally through this minor Kindle feature. With this ongoing project I draw attention to this existing example of collective social support in order to change society’s vision for the future of social technologies. Unrequited United invites others to show solidarity with the anonymous highlighters by wearing Kindle Popular Highlights laser engraved onto silicone wristbands. I give people the wristband that most resonates with them in exchange for an anonymous story about love. These stories will be made into an artist’s book.",
+                "web":"https://sophiabrueckner.com/unrequited.html",
+                "arxiv":"",
+                "email":"sbrueckn@umich.edu",
+                "caption":"Unrequited United explores Amazon Kindle Popular Highlights in romance novels. A passage in a Kindle e-book becomes a Popular Highlight after a certain number of people independently highlight the same passage. Popular Highlights show up as underlined text along with the number of people who highlighted that passage. Unrequited United invites others to show solidarity with the anonymous highlighters by wearing Popular Highlights laser engraved onto silicone wristbands. Visitors are invited to take the wristband that most resonates with them in exchange for an anonymous story about love. ",
+                "format":"interactive art installation",
+                "material":"Kindle Popular Highlights from romance novels, laser engraved silicone wristbands, notecards",
+                "size":"NA",
+                "year":"2023",
+                "slug":"romace-series",
+                "authors":[
+                    {
+                        "id":94,
+                        "name":"Sophia Brueckner",
+                        "bio":"Sophia Brueckner is an artist and engineer who prototypes alternatives to the tech industry’s limited visions for how we live with technology. She combines coding, digital fabrication, and electronics with traditional media. Her projects range from designing new textiles that merge Laura Ashley florals with Realtree hunting camo to a robotic bowerbird exploring artificial intelligence and non-human art. She is currently an associate professor at the Stamps School of Art and Design and directs the Center for Ethics, Society, and Computing (ESC) at the University of Michigan. ",
+                        "web":"https://sophiabrueckner.com",
+                        "image":"Sophia-Brueckner.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":116,
+                        "filename":"1016_i1.jpg",
+                        "caption":"Unrequited United, Sophia Brueckner"
+                    },
+                    {
+                        "id":117,
+                        "filename":"1016_i2.jpg",
+                        "caption":"Unrequited United, Sophia Brueckner"
+                    },
+                    {
+                        "id":118,
+                        "filename":"1016_i3.jpg",
+                        "caption":"Unrequited United, Sophia Brueckner: Amazon Kindle Popular Highlights that are engraved on the wristbands, front and back."
+                    }
+                ]
+            },
+            {
+                "id":1113,
+                "type":"artwork",
+                "title":"Weaving Water, Interleaving Silence ",
+                "desc":"The project Weaving Water, Interleaving Silence is an artistic research project exploring the expressiveness of water and its potential as a visualization tool for emotions that lie beneath the surface. Through strategies in data visualization, computer vision and mechatronic elements, this installation explores the translational and transdisciplinary poetics in our connection to water and its metaphors of flow, depth, and revelation. Conceptually, the artwork aligns strongly with the exhibition’s inspired notions of ‘collective care’ on various levels. At its most immediate, Weaving Water, Interleaving Silence valorizes stories of resilience of climate disaster survivors and survivors in marginalized groups/communities, especially in cases where systemic infrastructures enact an ongoing process of silencing and devaluing of the experiences of individuals in the advent of large, global crises. At a deeper and perhaps self-critical level, the artwork contemplates the validity of computationally-enhanced emotional recognition techniques as part of a toolkit for identifying need and/or warranting care – recognizing that the reduction embedded within the processes of data collection has already been critiqued as distancing, isolating and dehumanizing. Our proposal with this artwork is to consider elemental media as a form of affective and transcendent materiality. Water is deeply symbolic and meditative, and its ability to flow, shape shift and interleave recursively is a powerful metaphor for the project’s ideas of an embedded and hidden emotional complexity. By putting data structures and elemental media in synergy, how might the experience of Weaving Water, Interleaving Silence simultaneously provide affect and inform about quantifiable parameters of our emotions? More broadly, how might trajectories of data visualization practices be aligned with qualitative, multi-sensorial experiences to connect people and support conversations on collective care? ",
+                "web":"https://www.arkfrequencies.com/weaving-water-interleaving-silence-2025/",
+                "arxiv":"",
+                "email":"joelong@uvic.ca",
+                "caption":"Weaving Water, Interleaving Silence explores the expressiveness of water and its potential as a visualization tool for emotions that lie beneath the surface. Through strategies in data visualization, computer vision and mechatronic elements, this installation explores the translational and transdisciplinary poetics in our connection to water and its metaphors of flow, depth, and revelation. At a deeper and self-critical level, we contemplate the validity of computationally-enhanced emotional recognition techniques as part of a toolkit for identifying need and warranting care",
+                "format":"video sculpture ",
+                "material":"Cymatic visualizations, mechatronic elements, silent video, recorded oral narratives ",
+                "size":"",
+                "year":"2025",
+                "slug":"weaving-water",
+                "authors":[
+                    {
+                        "id":95,
+                        "name":"Joel Ong",
+                        "bio":"Joel Ong is an artist-researcher whose works connect scientific and artistic approaches to the environment, developed from more than a decade of explorations in contemporary ecological thought expressed through sound, installation and socially conscious art. Joel is Associate Professor and Canada Research Chair in Emerging Digital Art Practices at the University of Victoria As an artist, he has presented at the Gregg Museum of Art and Design, Ectopia Gallery Lisbon, El Museo Cultural de Santa Fe, Geothe Institute ( Paris, FR), Times Square NYC, Centro de Cultura Digital Mexico etc.",
+                        "web":"arkfrequencies.com ",
+                        "image":"Joel-Ong.jpg"
+                    },
+                    {
+                        "id":96,
+                        "name":"Kuan-Ju Wu ",
+                        "bio":"Kuan-ju Wu is a creative technologist, new media artist, and interaction designer with a focus on sentimental, tangible, embodied, material-based, in-situ user experience design. His practice revolves around research, innovation and collaborations – with both humans and non-humans. Wu is the co-founder of the artists collective Natura Machina and an instructor at the UC Berkeley Jacobs Institute for Design Innovation and its Masters of Design program. He has shown work at Ars Electronica, Linz, Japan Media Art Festival, Tokyo and Current New Media Art Festival, Santa Fe.",
+                        "web":"https://wukuanju.com/",
+                        "image":"Kuan-Ju-Wu.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":119,
+                        "filename":"1113_i1.jpg",
+                        "caption":"Weaving Water Interleaving Silence screenshot "
+                    },
+                    {
+                        "id":120,
+                        "filename":"1113_i2.jpg",
+                        "caption":"Related project In silence, Ong 2025 Documentation"
+                    },
+                    {
+                        "id":121,
+                        "filename":"1113_i3.jpg",
+                        "caption":"Related project Signs of Water, Wu 2024, documentation"
+                    }
+                ]
+            },
+            {
+                "id":1127,
+                "type":"artwork",
+                "title":"Balaton Borders Tableware",
+                "desc":"Balaton Borders tableware physicalizes ecological data from Lake Balaton, Hungary’s largest freshwater lake, transforming it into a tactile and sensory experience. Each porcelain piece, mug, jug, deep plate, flat plate, and small plate, embeds site-specific environmental data in its form and material. The collection represents processes such as reedbed loss, shoreline modification, soil erosion, sedimentation, and urban expansion, revealing how human activity alters the lake’s fragile ecosystem. The pieces are intentionally uneasy to use: a jug too heavy to pour, a perforated mug that leaks, or a plate that tilts. These moments of disruption reflect the environmental imbalances they represent, prompting reflection through touch, movement, and shared experience. The work reimagines dining as a space for ecological storytelling, where data becomes tangible, edible, and social. Through commensality, Balaton Borders guides people to feel the stories behind the data, opening space for reflection and care toward the more-than-human world.",
+                "web":"https://hajnalgyeviki.com/portfolio/data-driven-ceramics-sensitisation-on-the-ecology-of-lake-balaton/",
+                "arxiv":"",
+                "email":"damla.cay@mome.hu",
+                "caption":"Balaton Borders physicalizes ecological data from Lake Balaton through a set of ceramic tableware designed for performative dining. Each piece encodes site-specific data about reedbed loss, shoreline modification, erosion, and urbanization. The collection transforms the act of eating into a moment of reflection, where food, ceramics, and conversation intertwine to reveal the fragile relationship between people and their environment.",
+                "format":"Ceramic tableware",
+                "material":"Porcelain, concrete, glass",
+                "size":"",
+                "year":"2024",
+                "slug":"balaton-borders-tableware",
+                "authors":[
+                    {
+                        "id":97,
+                        "name":"Hajnal Gyeviki",
+                        "bio":"Hajnal Gyeviki researches the possibilities of ecological action in contemporary ceramics. She designs transdisciplinary projects merging data physicalisation, ecology and food design. Her method is a blend of design thinking and self-developed approaches that results in tangible, thought-provoking, discursive, and often critical outcomes. ",
+                        "web":"https://hajnalgyeviki.com",
+                        "image":"Hajnal-Gyeviki.jpg"
+                    }
+                ],
+                "images":[
+                    {
+                        "id":122,
+                        "filename":"1127_i1.jpg",
+                        "caption":"Full tableware set for Badacsonytomaj, encoding data on reedbed loss, shoreline change, erosion, sedimentation, and urbanization."
+                    },
+                    {
+                        "id":123,
+                        "filename":"1127_i2.jpg",
+                        "caption":"Jug physicalizes shoreline artificialization by concrete volume; mug physicalizes reedbed cuts as perforations along a spiral form."
+                    },
+                    {
+                        "id":124,
+                        "filename":"1127_i3.jpg",
+                        "caption":"Deep plate shows erosion through slope; flat plate maps sedimentation with blue glass shaped by Balaton’s shoreline."
+                    },
+                    {
+                        "id":125,
+                        "filename":"1127_i4.jpg",
+                        "caption":"Small plate with lángos and concrete slice visualizes built-up land, symbolizing lost habitat."
+                    },
+                    {
+                        "id":126,
+                        "filename":"1127_i5.jpg",
+                        "caption":"Mugs for eleven Balaton towns map reedbed data as perforations, showing the scale of human impact on coastal vegetation."
+                    },
+                    {
+                        "id":127,
+                        "filename":"1127_i6.jpg",
+                        "caption":"Guests dine with data ceramics linking each course to an ecological process, transforming eating into shared reflection."
+                    }
+                ]
+            }
+        ]
+    }
+}
